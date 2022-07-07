@@ -1,0 +1,5 @@
+TrialOnset,PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI,Accuracy,RT,Response
+4.02453389899892,Practice,Practice,PROFESSOR,ARTIFACTS,Is it alive?,0,1,4000,1,1.63554861699959,1
+17.0245338989989,Practice,Practice,HAIR,OCCUPATION,Does it make sounds?,6,0,4000,1,1.32377250999707,0
+30.0245338989989,Practice,Practice,FAUCET,ARTIFACTS,Can you find it in the wild?,2,0,4000,1,1.57851135200326,0
+43.0245338989989,Practice,Practice,OATMEAL,OCCUPATION,Can you eat or drink it?,1,1,4000,1,0.971380259994476,1

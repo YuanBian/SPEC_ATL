@@ -1,0 +1,6 @@
+TrialOnset,PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI,Accuracy,RT,Response
+0,49,High,phone,ARTIFACTS,Does it float in water?,7,0,4000,0,1.6807883658912,1
+13,90,Low,boat,SPORT+LEISURE,Did humans create it?,5,1,4000,0,0,
+26,85,High,dollar,OTHER,Can you find it in the wild?,3,0,4000,0,1.43863679794595,1
+39,94,Low,dance,SPORT+LEISURE,Can you find it in the wild?,3,0,4000,0,0.89403688814491,1
+52,34,Low,grandparent,FAMILY,Does it make sounds?,6,1,4000,1,1.59114520298317,1

@@ -1,0 +1,14 @@
+,Condition,Image,Match,Mismatch_Type,Word_1st,Word_2nd
+0,FIX,NA,NA,NA,NA,NA
+1,COMP_1W,BlueStar_3.jpg,match,0,Wvcnz,Star
+2,COMP_1W,BlackBoat_2.jpg,mismatch,3,Rjdnw,Cup
+3,COMP_1W,BrownHand_3.jpg,mismatch,1,Wvcnz,House
+4,COMP_2W,GreenHand_3.jpg,mismatch,3,Green,Car
+5,COMP_2W,BlackFork_1.jpg,mismatch,3,Green,Key
+6,COMP_2W,GreenCross_3.jpg,mismatch,2,Pink,Cross
+7,LIST_1W,RedBag_2.jpg,match,0,Xkq,Bag
+8,LIST_1W,GreenBell_2.jpg,mismatch,3,Rjdnw,Key
+9,LIST_1W,BlackCup_3.jpg,match,0,Qxsw,Cup
+10,LIST_2W,PinkLeaf_3.jpg,mismatch,1,House,Star
+11,LIST_2W,RedLock_2.jpg,mismatch,1,Lamp,Bone
+12,LIST_2W,BrownNote_3.jpg,match,0,House,Note

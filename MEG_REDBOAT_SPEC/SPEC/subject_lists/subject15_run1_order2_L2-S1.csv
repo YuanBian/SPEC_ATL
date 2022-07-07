@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+74,High,IMPRESSIONIST,OCCUPATION,Did humans create it?,5,1,400
+10,High,GECKO,ANIMAL,Can you hold it?,4,1,400
+73,Low,ENTERTAINER,OCCUPATION,Can you wear it?,3,0,500
+41,Low,SODA,FOOD,Is it alive?,0,0,600
+26,High,BOWL,ARTIFACTS,Is it alive?,0,0,500
+2,High,BEE,ANIMAL,Can you wear it?,3,0,300
+13,Low,AMPHIBIAN,ANIMAL,Can you find it in the wild?,2,1,500
+45,Low,CONDIMENT,FOOD,Can you eat or drink it?,1,1,400
+57,Low,BEVERAGE,FOOD,Is it alive?,0,0,700
+46,High,GRAVY,FOOD,Can you eat or drink it?,1,1,500
+50,High,VODKA,FOOD,Does it make sounds?,6,0,300
+93,Low,GAME,SPORT+LEISURE,Did humans create it?,5,1,400
+37,Low,VEGETABLE,FOOD,Can you eat or drink it?,1,1,600
+38,High,SPAGHETTI,FOOD,Is it alive?,0,0,500
+85,Low,CURRENCY,OTHER,Did humans create it?,5,1,600
+9,Low,BIRD,ANIMAL,Does it make sounds?,6,1,200
+86,High,DEMOCRACY,OTHER,Did humans create it?,5,1,600
+29,Low,BAG,CLOTHES+ACCESS,Can you eat or drink it?,1,0,200
+90,High,KAYAK,SPORT+LEISURE,Can you find it in the wild?,2,0,300
+21,Low,JEWELRY,ARTIFACTS,Can you hold it?,4,1,300
+18,High,LOLLIPOP,FOOD,Can you eat or drink it?,1,1,600
+62,High,BICEPS,HUMAN PART,Does it float in water?,7,0,700
+53,Low,PLANET,NATURE INANIMATE,Can you wear it?,3,0,300
+77,Low,DANCER,OCCUPATION,Can you wear it?,3,0,700
+66,High,SILICON,NATURE INANIMATE,Does it make sounds?,6,0,300
+34,High,GRANDFATHER,FAMILY,Does it make sounds?,6,1,500
+1,Low,DOG,ANIMAL,Does it make sounds?,6,1,400
+22,High,PENNY,ARTIFACTS,Does it float in water?,7,0,400
+17,Low,MEDICINE,ARTIFACTS,Did humans create it?,5,1,200
+70,High,SURGEON,OCCUPATION,Can you wear it?,3,0,300
+94,High,TANGO,SPORT+LEISURE,Can you find it in the wild?,2,0,200
+5,Low,MAMMAL,ANIMAL,Is it alive?,0,1,300
+33,Low,RELATIVE,FAMILY,Can you find it in the wild?,2,0,700
+81,Low,CRIME,OTHER,Can you hold it?,4,0,200
+82,High,ZOMBIE,OTHER,Did humans create it?,5,1,700
+58,High,BRAIN,HUMAN PART,Can you hold it?,4,1,600
+69,Low,METAL,NATURE INANIMATE,Does it float in water?,7,0,500
+65,Low,DISASTER,NATURE INANIMATE,Can you find it in the wild?,2,1,600
+49,Low,GADGET,ARTIFACTS,Does it float in water?,7,0,400
+14,High,TARANTULA,ANIMAL,Does it float in water?,7,1,700
+89,Low,SEASON,OTHER,Can you hold it?,4,0,200
+54,High,CHARDONNAY,FOOD,Can you find it in the wild?,2,0,600
+78,High,ANGER,OTHER,Is it alive?,0,0,200
+42,High,PARSLEY,FOOD,Can you eat or drink it?,1,1,700
+61,Low,FINGER,HUMAN PART,Does it float in water?,7,1,200
+25,Low,TOOL,ARTIFACTS,Does it make sounds?,6,0,400
+30,High,BERET,CLOTHES+ACCESS,Can you wear it?,3,1,700
+6,High,SALMON,ANIMAL,Can you hold it?,4,1,500

@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+63,High,ROSE,NATURE INANIMATE,Can you find it in the wild?,2,1,600
+39,High,JADE,NATURE INANIMATE,Can you wear it?,3,1,300
+88,Low,GENRE,OTHER,Does it make sounds?,6,0,400
+32,Low,PARENT,FAMILY,Can you hold it?,4,0,200
+11,High,KANGAROO,ANIMAL,Did humans create it?,5,0,700
+47,High,WHEAT,FOOD,Does it make sounds?,6,0,300
+80,Low,BUILDING,OTHER,Did humans create it?,5,1,600
+20,Low,APPLIANCE,ARTIFACTS,Does it make sounds?,6,1,200
+72,Low,POLITICIAN,OCCUPATION,Can you find it in the wild?,2,0,700
+7,High,COBRA,ANIMAL,Is it alive?,0,1,500
+59,High,ARM,HUMAN PART,Is it alive?,0,0,500
+48,Low,PASTRY,FOOD,Did humans create it?,5,1,200
+76,Low,ROYALTY,OCCUPATION,Is it alive?,0,1,300
+23,High,GUN,ARTIFACTS,Does it float in water?,7,0,400
+96,Low,DRUM,SPORT+LEISURE,Does it float in water?,7,1,200
+52,Low,DESSERT,FOOD,Can you eat or drink it?,1,1,400
+71,High,CHEMIST,OCCUPATION,Does it float in water?,7,1,700
+56,Low,SPICE,FOOD,Is it alive?,0,0,600
+35,High,CAPPUCCINO,FOOD,Does it float in water?,7,0,700
+36,Low,FRUIT,FOOD,Does it float in water?,7,1,500
+15,High,TABLE,ARTIFACTS,Can you hold it?,4,1,500
+79,High,ALGEBRA,OTHER,Can you find it in the wild?,2,0,200
+60,Low,BONE,HUMAN PART,Did humans create it?,5,0,400
+4,Low,PET,ANIMAL,Can you find it in the wild?,2,0,500
+83,High,KITCHEN,OTHER,Does it make sounds?,6,0,300
+27,High,LIPSTICK,ARTIFACTS,Can you wear it?,3,1,300
+64,Low,TREE,NATURE INANIMATE,Can you find it in the wild?,2,1,600
+3,High,PANDA,ANIMAL,Did humans create it?,5,0,600
+24,Low,FABRIC,ARTIFACTS,Can you wear it?,3,1,500
+87,High,UNIVERSITY,OTHER,Can you find it in the wild?,2,0,300
+67,High,WATER,NATURE INANIMATE,Did humans create it?,5,0,400
+12,Low,POULTRY,ANIMAL,Can you eat or drink it?,1,1,600
+68,Low,ELEMENT,NATURE INANIMATE,Can you eat or drink it?,1,0,200
+16,Low,UTENSIL,ARTIFACTS,Is it alive?,0,0,700
+31,High,JEANS,CLOTHES+ACCESS,Can you hold it?,4,1,600
+75,High,DRUMMER,OCCUPATION,Does it make sounds?,6,1,500
+84,Low,DISEASE,OTHER,Can you hold it?,4,0,200
+44,Low,SEASONING,FOOD,Can you hold it?,4,1,300
+8,Low,APE,ANIMAL,Does it float in water?,7,0,400
+43,High,BAGEL,FOOD,Can you hold it?,4,1,400
+92,Low,SPORT,SPORT+LEISURE,Does it make sounds?,6,0,400
+95,High,NEWSPAPER,SPORT+LEISURE,Can you eat or drink it?,1,0,700
+91,High,MARBLE,NATURE INANIMATE,Can you eat or drink it?,1,0,500
+55,High,CHEDDAR,FOOD,Can you eat or drink it?,1,1,600
+28,Low,SHOES,CLOTHES+ACCESS,Can you wear it?,3,1,300
+40,Low,MEAT,FOOD,Can you wear it?,3,0,700
+51,High,DAUGHTER,FAMILY,Is it alive?,0,1,200
+19,High,RUBY,ARTIFACTS,Can you wear it?,3,1,700

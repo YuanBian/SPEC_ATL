@@ -1,0 +1,193 @@
+﻿PairNumber,Condition,Noun,Category,Is it alive?,Can you eat or drink it?,Can you find it in the wild?,Can you wear it?,Can you hold it?,Did humans create it?,Does it make sounds?,Does it float in water?
+1,Low,Dog,ANIMAL,1,0,-1,0,1,0,1,1
+1,High,Bulldog,ANIMAL,1,0,0,0,1,-1,1,0
+2,Low,Insect,ANIMAL,1,0,1,0,1,0,1,1
+2,High,Bee,ANIMAL,1,0,1,0,1,0,1,1
+3,Low,Bear,ANIMAL,1,0,1,0,-1,0,1,1
+3,High,Panda,ANIMAL,1,0,1,0,-1,0,1,1
+4,Low,Pet,ANIMAL,1,0,0,0,1,-1,-1,1
+4,High,Cat,ANIMAL,1,0,-1,0,1,-1,1,1
+5,Low,Mammal,ANIMAL,1,0,1,0,-1,0,1,1
+5,High,Mouse,ANIMAL,1,0,1,0,1,0,1,1
+6,Low,Fish,ANIMAL,1,1,1,0,1,0,0,0
+6,High,Salmon,ANIMAL,1,1,1,0,1,0,0,0
+7,Low,Snake,ANIMAL,1,0,1,0,1,0,1,0
+7,High,Cobra,ANIMAL,1,0,1,0,1,0,1,0
+8,Low,Ape,ANIMAL,1,0,1,0,0,0,1,0
+8,High,Gorilla,ANIMAL,1,0,1,0,0,0,1,0
+9,Low,Bird,ANIMAL,1,0,1,0,1,0,1,1
+9,High,Sparrow,ANIMAL,1,0,1,0,1,0,1,1
+10,Low,Lizard,ANIMAL,1,0,1,0,1,0,-1,1
+10,High,Gecko,ANIMAL,1,0,1,0,1,0,-1,1
+11,Low,Marsupial,ANIMAL,1,0,1,0,-1,0,-1,1
+11,High,Kangaroo,ANIMAL,1,0,1,0,0,0,-1,1
+12,Low,Poultry,ANIMAL,1,1,1,0,1,0,1,1
+12,High,Turkey,ANIMAL,1,1,1,0,1,0,1,1
+13,Low,Amphibian,ANIMAL,1,0,1,0,1,0,1,0
+13,High,Frog,ANIMAL,1,-1,1,0,1,0,1,0
+14,Low,Spider,ANIMAL,1,0,1,0,1,0,-1,1
+14,High,Tarantula,ANIMAL,1,0,1,0,1,0,-1,1
+15,Low,Furniture,ARTIFACTS,0,0,0,0,-1,1,0,0
+15,High,Table,ARTIFACTS,0,0,0,0,1,1,0,0
+16,Low,Utensil,ARTIFACTS,0,0,0,0,1,1,0,0
+16,High,Fork,ARTIFACTS,0,0,0,0,1,1,0,0
+17,Low,Medicine,ARTIFACTS,0,1,0,0,1,1,0,0
+17,High,Aspirin,ARTIFACTS,0,1,0,0,1,1,0,0
+19,Low,Jewel,ARTIFACTS,0,0,0,1,1,-1,0,0
+19,High,Ruby,ARTIFACTS,0,0,0,1,1,-1,0,0
+20,Low,Appliance,ARTIFACTS,0,0,0,0,-1,1,1,0
+20,High,Refrigerator,ARTIFACTS,0,0,0,0,-1,1,1,0
+21,Low,Jewelry,ARTIFACTS,0,0,0,1,1,1,0,0
+21,High,Ring,ARTIFACTS,0,0,0,1,1,1,0,0
+22,Low,Coin,ARTIFACTS,0,0,0,0,1,1,0,0
+22,High,Penny,ARTIFACTS,0,0,0,0,1,1,0,0
+23,Low,Weapon,ARTIFACTS,0,0,0,-1,-1,1,0,0
+23,High,Gun,ARTIFACTS,0,0,0,-1,1,1,0,0
+24,Low,Fabric,ARTIFACTS,0,0,0,1,1,-1,0,1
+24,High,Silk,ARTIFACTS,0,0,0,1,1,-1,0,1
+25,Low,Tool,ARTIFACTS,0,0,-1,-1,1,-1,0,0
+25,High,Axe,ARTIFACTS,0,0,0,-1,1,1,0,0
+26,Low,Container,ARTIFACTS,0,0,0,0,-1,-1,0,1
+26,High,Bowl,ARTIFACTS,0,0,0,0,1,1,0,1
+27,Low,Makeup,ARTIFACTS,0,0,0,1,1,1,0,0
+27,High,Lipstick,ARTIFACTS,0,0,0,1,1,1,0,0
+49,Low,Gadget,ARTIFACTS,0,0,0,-1,1,1,1,0
+49,High,Phone,ARTIFACTS,0,0,0,-1,1,1,1,0
+28,Low,Shoes,CLOTHES+ACCESS,0,0,0,1,1,1,0,0
+28,High,Sneakers,CLOTHES+ACCESS,0,0,0,1,1,1,0,1
+29,Low,Bag,CLOTHES+ACCESS,0,0,0,1,1,1,0,1
+29,High,Purse,CLOTHES+ACCESS,0,0,0,1,1,1,0,1
+30,Low,Hat,CLOTHES+ACCESS,0,0,0,1,1,1,0,1
+30,High,Beret,CLOTHES+ACCESS,0,0,0,1,1,1,0,1
+31,Low,Pants,CLOTHES+ACCESS,0,0,0,1,1,1,0,0
+31,High,Jeans,CLOTHES+ACCESS,0,0,0,1,1,1,0,0
+32,Low,Parent,FAMILY,1,0,0,0,0,0,1,-1
+32,High,Mother,FAMILY,1,0,0,0,0,0,1,-1
+33,Low,Relative,FAMILY,1,0,0,0,0,0,1,-1
+33,High,Uncle,FAMILY,1,0,0,0,0,0,1,-1
+34,Low,Grandparent,FAMILY,1,0,0,0,0,0,1,-1
+34,High,Grandfather,FAMILY,1,0,0,0,0,0,1,-1
+51,Low,Offspring,FAMILY,1,0,0,0,-1,0,1,-1
+51,High,Daughter,FAMILY,1,0,0,0,-1,0,1,-1
+18,Low,Candy,FOOD,0,1,0,0,1,1,0,0
+18,High,Lollipop,FOOD,0,1,0,0,1,1,0,0
+35,Low,Coffee,FOOD,0,1,-1,0,-1,-1,0,0
+35,High,Cappuccino,FOOD,0,1,0,0,-1,1,0,0
+36,Low,Fruit,FOOD,0,1,1,0,1,0,0,1
+36,High,Apple,FOOD,0,1,1,0,1,0,0,1
+37,Low,Vegetable,FOOD,0,1,1,0,1,0,0,-1
+37,High,Broccoli,FOOD,0,1,1,0,1,0,0,-1
+38,Low,Pasta,FOOD,0,1,0,0,1,1,0,-1
+38,High,Spaghetti,FOOD,0,1,0,0,1,1,0,-1
+40,Low,Meat,FOOD,0,1,1,0,1,0,0,0
+40,High,Beef,FOOD,0,1,1,0,1,-1,0,0
+41,Low,Soda,FOOD,0,1,0,0,-1,1,0,-1
+41,High,Coke,FOOD,0,1,0,0,-1,1,0,-1
+42,Low,Herb,FOOD,0,1,1,0,1,0,0,1
+42,High,Parsley,FOOD,0,1,1,0,1,0,0,1
+43,Low,Bread,FOOD,0,1,0,0,1,1,0,1
+43,High,Bagel,FOOD,0,1,0,0,1,1,0,1
+44,Low,Seasoning,FOOD,0,1,-1,0,1,-1,0,-1
+44,High,Salt,FOOD,0,1,0,0,1,-1,0,-1
+45,Low,Condiment,FOOD,0,1,0,0,1,1,0,-1
+45,High,Ketchup,FOOD,0,1,0,0,1,1,0,-1
+46,Low,Sauce,FOOD,0,1,0,0,1,1,0,-1
+46,High,Gravy,FOOD,0,1,0,0,1,1,0,-1
+47,Low,Crop,FOOD,-1,1,-1,0,-1,-1,0,1
+47,High,Wheat,FOOD,-1,1,-1,0,-1,-1,0,1
+48,Low,Pastry,FOOD,0,1,0,0,1,1,0,1
+48,High,Donut,FOOD,0,1,0,0,1,1,0,1
+50,Low,Alcohol,FOOD,0,1,0,0,-1,1,0,-1
+50,High,Vodka,FOOD,0,1,0,0,-1,1,0,-1
+52,Low,Dessert,FOOD,0,1,0,0,1,1,0,-1
+52,High,Cake,FOOD,0,1,0,0,1,1,0,-1
+54,Low,Wine,FOOD,0,1,0,0,-1,1,0,-1
+54,High,Chardonnay,FOOD,0,1,0,0,-1,1,0,-1
+55,Low,Cheese,FOOD,0,1,0,0,1,1,0,0
+55,High,Cheddar,FOOD,0,1,0,0,1,1,0,0
+56,Low,Spice,FOOD,0,1,-1,0,1,-1,0,1
+56,High,Ginger,FOOD,0,1,1,0,1,0,0,1
+57,Low,Beverage,FOOD,0,1,0,0,-1,-1,0,-1
+57,High,Tea,FOOD,0,1,-1,0,-1,-1,0,-1
+58,Low,Organ,HUMAN PART,-1,-1,-1,0,1,0,0,-1
+58,High,Brain,HUMAN PART,-1,0,-1,0,1,0,-1,-1
+59,Low,Limb,HUMAN PART,0,-1,-1,0,1,0,0,1
+59,High,Arm,HUMAN PART,0,0,-1,0,1,0,0,1
+60,Low,Bone,HUMAN PART,0,0,-1,0,1,0,0,0
+60,High,Femur,HUMAN PART,0,0,-1,0,1,0,0,0
+61,Low,Finger,HUMAN PART,0,0,-1,0,1,0,0,1
+61,High,Pinkie,HUMAN PART,0,0,-1,0,1,0,0,1
+62,Low,Muscle,HUMAN PART,0,-1,-1,0,-1,0,0,0
+62,High,Biceps,HUMAN PART,0,0,-1,0,-1,0,0,0
+39,Low,Crystal,NATURE INANIMATE,0,0,1,1,1,0,0,0
+39,High,Jade,NATURE INANIMATE,0,0,-1,1,1,0,0,0
+53,Low,Planet,NATURE INANIMATE,0,0,1,0,0,0,-1,-1
+53,High,Earth,NATURE INANIMATE,0,0,1,0,0,0,-1,-1
+63,Low,Flower,NATURE INANIMATE,1,0,1,1,1,0,0,1
+63,High,Rose,NATURE INANIMATE,1,0,1,1,1,0,0,1
+64,Low,Tree,NATURE INANIMATE,1,0,1,0,0,0,-1,1
+64,High,Maple,NATURE INANIMATE,1,0,1,0,0,0,-1,-1
+65,Low,Disaster,NATURE INANIMATE,0,0,1,0,0,0,-1,-1
+65,High,Earthquake,NATURE INANIMATE,0,0,1,0,0,0,-1,-1
+66,Low,Mineral,NATURE INANIMATE,0,0,1,0,-1,0,0,0
+66,High,Silicon,NATURE INANIMATE,0,0,-1,0,-1,0,0,0
+67,Low,Liquid,NATURE INANIMATE,0,-1,1,0,-1,0,-1,-1
+67,High,Water,NATURE INANIMATE,0,1,1,0,-1,0,-1,-1
+68,Low,Element,NATURE INANIMATE,0,0,1,0,0,0,0,-1
+68,High,Oxygen,NATURE INANIMATE,0,0,1,0,0,0,0,-1
+69,Low,Metal,NATURE INANIMATE,0,0,1,1,-1,0,0,0
+69,High,Gold,NATURE INANIMATE,0,0,1,1,-1,0,0,0
+91,Low,Stone,NATURE INANIMATE,0,0,1,-1,1,0,0,0
+91,High,Marble,NATURE INANIMATE,0,0,-1,-1,1,-1,0,0
+70,Low,Doctor,OCCUPATION,1,0,0,0,0,1,1,1
+70,High,Surgeon,OCCUPATION,1,0,0,0,0,1,1,1
+71,Low,Scientist,OCCUPATION,1,0,0,0,0,1,1,1
+71,High,Chemist,OCCUPATION,1,0,0,0,0,1,1,1
+72,Low,Politician,OCCUPATION,1,0,0,0,0,1,1,1
+72,High,Senator,OCCUPATION,1,0,0,0,0,1,1,1
+73,Low,Entertainer,OCCUPATION,1,0,0,0,0,1,1,1
+73,High,Comedian,OCCUPATION,1,0,0,0,0,1,1,1
+74,Low,Artist,OCCUPATION,1,0,0,0,0,1,1,1
+74,High,Impressionist,OCCUPATION,1,0,0,0,0,1,1,1
+75,Low,Musician,OCCUPATION,1,0,0,0,0,1,1,1
+75,High,Drummer,OCCUPATION,1,0,0,0,0,1,1,1
+76,Low,Royalty,OCCUPATION,1,0,0,0,0,1,1,1
+76,High,Queen,OCCUPATION,1,0,0,0,0,1,1,1
+77,Low,Dancer,OCCUPATION,1,0,0,0,0,1,1,1
+77,High,Ballerina,OCCUPATION,1,0,0,0,0,1,1,1
+78,Low,Emotion,OTHER,0,0,-1,0,0,0,0,-1
+78,High,Anger,OTHER,0,0,-1,0,0,0,0,-1
+79,Low,Math,OTHER,0,0,0,0,0,-1,0,-1
+79,High,Algebra,OTHER,0,0,0,0,0,-1,0,-1
+80,Low,Building,OTHER,0,0,0,0,0,1,0,0
+80,High,Hotel,OTHER,0,0,0,0,0,1,0,0
+81,Low,Crime,OTHER,0,0,-1,0,0,-1,0,-1
+81,High,Murder,OTHER,0,0,-1,0,0,0,0,-1
+82,Low,Monster,OTHER,-1,0,0,0,0,1,-1,-1
+82,High,Zombie,OTHER,-1,0,0,0,0,1,-1,-1
+83,Low,Room,OTHER,0,0,0,0,0,1,0,-1
+83,High,Kitchen,OTHER,0,0,0,0,0,1,0,-1
+84,Low,Disease,OTHER,0,0,1,0,0,0,0,-1
+84,High,Stroke,OTHER,0,0,-1,0,0,0,0,-1
+85,Low,Currency,OTHER,0,0,0,0,1,1,0,-1
+85,High,Dollar,OTHER,0,0,0,0,1,1,0,-1
+86,Low,Ideology,OTHER,0,0,0,0,0,1,0,-1
+86,High,Democracy,OTHER,0,0,0,0,0,1,0,-1
+87,Low,Institution,OTHER,0,0,0,0,0,1,0,-1
+87,High,University,OTHER,0,0,0,0,0,1,0,-1
+88,Low,Genre,OTHER,0,0,0,0,0,1,0,-1
+88,High,Comedy,OTHER,0,0,0,0,0,1,0,-1
+89,Low,Season,OTHER,0,0,1,0,0,0,0,-1
+89,High,Spring,OTHER,0,0,1,0,0,0,0,-1
+90,Low,Boat,SPORT+LEISURE,0,0,0,0,-1,1,0,1
+90,High,Kayak,SPORT+LEISURE,0,0,0,0,1,1,0,1
+92,Low,Sport,SPORT+LEISURE,0,0,0,0,0,1,0,-1
+92,High,Baseball,SPORT+LEISURE,0,0,0,0,0,1,0,-1
+93,Low,Game,SPORT+LEISURE,0,0,0,0,-1,1,0,-1
+93,High,Checkers,SPORT+LEISURE,0,0,0,0,1,1,0,-1
+94,Low,Dance,SPORT+LEISURE,0,0,0,0,0,1,0,-1
+94,High,Tango,SPORT+LEISURE,0,0,0,0,0,1,0,-1
+95,Low,Media,SPORT+LEISURE,0,0,0,0,-1,1,0,-1
+95,High,Newspaper,SPORT+LEISURE,0,0,0,0,1,1,0,1
+96,Low,Drum,SPORT+LEISURE,0,0,0,-1,1,1,0,1
+96,High,Bongo,SPORT+LEISURE,0,0,0,-1,1,1,0,1

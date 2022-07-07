@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+65,Low,DISASTER,NATURE INANIMATE,Can you find it in the wild?,2,1,500
+66,High,SILICON,NATURE INANIMATE,Can you wear it?,3,0,500
+65,Low,DISASTER,NATURE INANIMATE,Can you eat or drink it?,1,0,700
+21,Low,JEWELRY,ARTIFACTS,Does it float in water?,7,0,200
+45,Low,CONDIMENT,FOOD,Did humans create it?,5,1,200
+38,High,SPAGHETTI,FOOD,Did humans create it?,5,1,300
+94,High,TANGO,SPORT+LEISURE,Can you find it in the wild?,2,0,400
+94,High,TANGO,SPORT+LEISURE,Is it alive?,0,0,700
+77,Low,DANCER,OCCUPATION,Can you hold it?,4,0,200
+38,High,SPAGHETTI,FOOD,Can you eat or drink it?,1,1,300
+1,Low,DOG,ANIMAL,Does it float in water?,7,1,300
+21,Low,JEWELRY,ARTIFACTS,Can you hold it?,4,1,400
+65,Low,DISASTER,NATURE INANIMATE,Is it alive?,0,0,300
+66,High,SILICON,NATURE INANIMATE,Does it make sounds?,6,0,500
+30,High,BERET,CLOTHES+ACCESS,Can you find it in the wild?,2,0,400
+29,Low,BAG,CLOTHES+ACCESS,Did humans create it?,5,1,700
+49,Low,GADGET,ARTIFACTS,Is it alive?,0,0,400
+34,High,GRANDFATHER,FAMILY,Can you hold it?,4,0,400
+42,High,PARSLEY,FOOD,Can you hold it?,4,1,700
+81,Low,CRIME,OTHER,Does it make sounds?,6,0,600
+10,High,GECKO,ANIMAL,Does it float in water?,7,1,500
+22,High,PENNY,ARTIFACTS,Can you eat or drink it?,1,0,700
+45,Low,CONDIMENT,FOOD,Is it alive?,0,0,600
+22,High,PENNY,ARTIFACTS,Did humans create it?,5,1,500
+89,Low,SEASON,OTHER,Can you find it in the wild?,2,1,200
+38,High,SPAGHETTI,FOOD,Can you hold it?,4,1,200
+49,Low,GADGET,ARTIFACTS,Does it float in water?,7,0,300
+90,High,KAYAK,SPORT+LEISURE,Can you wear it?,3,0,200
+10,High,GECKO,ANIMAL,Is it alive?,0,1,400
+29,Low,BAG,CLOTHES+ACCESS,Can you wear it?,3,1,600
+37,Low,VEGETABLE,FOOD,Can you find it in the wild?,2,1,500
+6,High,SALMON,ANIMAL,Can you find it in the wild?,2,1,600
+53,Low,PLANET,NATURE INANIMATE,Can you eat or drink it?,1,0,200
+74,High,IMPRESSIONIST,OCCUPATION,Does it make sounds?,6,1,500
+73,Low,ENTERTAINER,OCCUPATION,Does it make sounds?,6,1,300
+77,Low,DANCER,OCCUPATION,Can you wear it?,3,0,700
+89,Low,SEASON,OTHER,Can you hold it?,4,0,700
+22,High,PENNY,ARTIFACTS,Is it alive?,0,0,600
+90,High,KAYAK,SPORT+LEISURE,Does it float in water?,7,1,600
+33,Low,RELATIVE,FAMILY,Does it make sounds?,6,1,400
+45,Low,CONDIMENT,FOOD,Can you eat or drink it?,1,1,700
+58,High,BRAIN,HUMAN PART,Can you eat or drink it?,1,0,600
+10,High,GECKO,ANIMAL,Did humans create it?,5,0,500
+17,Low,MEDICINE,ARTIFACTS,Did humans create it?,5,1,300
+70,High,SURGEON,OCCUPATION,Does it float in water?,7,1,300
+58,High,BRAIN,HUMAN PART,Can you wear it?,3,0,600
+57,Low,BEVERAGE,FOOD,Can you wear it?,3,0,200
+70,High,SURGEON,OCCUPATION,Does it make sounds?,6,1,400

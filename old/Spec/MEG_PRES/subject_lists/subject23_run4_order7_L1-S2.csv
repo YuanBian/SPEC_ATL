@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+60,Low,BONE,HUMAN PART,Does it float in water?,7,0,200
+40,Low,MEAT,FOOD,Can you find it in the wild?,2,1,600
+84,Low,DISEASE,OTHER,Can you wear it?,3,0,400
+95,High,NEWSPAPER,SPORT+LEISURE,Can you find it in the wild?,2,0,200
+23,High,GUN,ARTIFACTS,Does it make sounds?,6,0,200
+48,Low,PASTRY,FOOD,Can you eat or drink it?,1,1,700
+76,Low,ROYALTY,OCCUPATION,Does it make sounds?,6,1,500
+7,High,COBRA,ANIMAL,Is it alive?,0,1,700
+88,Low,GENRE,OTHER,Is it alive?,0,0,200
+35,High,CAPPUCCINO,FOOD,Can you eat or drink it?,1,1,300
+12,Low,POULTRY,ANIMAL,Can you wear it?,3,0,500
+16,Low,UTENSIL,ARTIFACTS,Can you hold it?,4,1,600
+8,Low,APE,ANIMAL,Is it alive?,0,1,300
+75,High,DRUMMER,OCCUPATION,Does it make sounds?,6,1,500
+84,Low,DISEASE,OTHER,Can you hold it?,4,0,600
+80,Low,BUILDING,OTHER,Does it make sounds?,6,0,600
+63,High,ROSE,NATURE INANIMATE,Can you wear it?,3,1,700
+23,High,GUN,ARTIFACTS,Can you eat or drink it?,1,0,300
+76,Low,ROYALTY,OCCUPATION,Can you wear it?,3,0,500
+59,High,ARM,HUMAN PART,Can you wear it?,3,0,200
+72,Low,POLITICIAN,OCCUPATION,Does it make sounds?,6,1,400
+7,High,COBRA,ANIMAL,Did humans create it?,5,0,700
+79,High,ALGEBRA,OTHER,Can you hold it?,4,0,400
+15,High,TABLE,ARTIFACTS,Does it float in water?,7,0,500
+68,Low,ELEMENT,NATURE INANIMATE,Can you find it in the wild?,2,1,400
+96,Low,DRUM,SPORT+LEISURE,Is it alive?,0,0,600
+27,High,LIPSTICK,ARTIFACTS,Can you wear it?,3,1,300
+71,High,CHEMIST,OCCUPATION,Can you hold it?,4,0,700
+67,High,WATER,NATURE INANIMATE,Can you eat or drink it?,1,1,400
+68,Low,ELEMENT,NATURE INANIMATE,Did humans create it?,5,0,200
+11,High,KANGAROO,ANIMAL,Is it alive?,0,1,600
+7,High,COBRA,ANIMAL,Does it float in water?,7,0,200
+27,High,LIPSTICK,ARTIFACTS,Does it float in water?,7,0,700
+48,Low,PASTRY,FOOD,Does it float in water?,7,1,600
+7,High,COBRA,ANIMAL,Can you find it in the wild?,2,1,500
+63,High,ROSE,NATURE INANIMATE,Is it alive?,0,1,700
+43,High,BAGEL,FOOD,Does it make sounds?,6,0,500
+4,Low,PET,ANIMAL,Does it float in water?,7,1,600
+56,Low,SPICE,FOOD,Can you eat or drink it?,1,1,400
+64,Low,TREE,NATURE INANIMATE,Did humans create it?,5,0,500
+35,High,CAPPUCCINO,FOOD,Did humans create it?,5,1,300
+32,Low,PARENT,FAMILY,Can you find it in the wild?,2,0,300
+87,High,UNIVERSITY,OTHER,Can you find it in the wild?,2,0,200
+71,High,CHEMIST,OCCUPATION,Did humans create it?,5,1,300
+44,Low,SEASONING,FOOD,Can you eat or drink it?,1,1,400
+27,High,LIPSTICK,ARTIFACTS,Can you hold it?,4,1,700
+64,Low,TREE,NATURE INANIMATE,Can you hold it?,4,0,400
+28,Low,SHOES,CLOTHES+ACCESS,Did humans create it?,5,1,300

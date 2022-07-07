@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Is it alive?,Can you eat or drink it?,Can you find it in the wild?,Can you wear it?,Can you hold it?,Did humans create it?,Does it make sounds?,Does it float in water?
+3,Low,bear,ANIMAL,1,0,1,0,-1,0,1,1
+4,High,cat,ANIMAL,1,0,-1,0,1,-1,1,1
+7,Low,snake,ANIMAL,1,0,1,0,1,0,1,0
+8,High,gorilla,ANIMAL,1,0,1,0,0,0,1,0
+11,Low,marsupial,ANIMAL,1,0,1,0,-1,0,-1,1
+12,High,turkey,ANIMAL,1,1,1,0,1,0,1,1
+15,Low,furniture,ARTIFACTS,0,0,0,0,-1,1,0,0
+16,High,fork,ARTIFACTS,0,0,0,0,1,1,0,0
+19,Low,jewel,ARTIFACTS,0,0,0,1,1,-1,0,0
+20,High,refrigerator,ARTIFACTS,0,0,0,0,-1,1,1,0
+23,Low,weapon,ARTIFACTS,0,0,0,-1,-1,1,0,0
+24,High,silk,ARTIFACTS,0,0,0,1,1,-1,0,1
+27,Low,makeup,ARTIFACTS,0,0,0,1,1,1,0,0
+28,High,sneakers,CLOTHES+ACCESS,0,0,0,1,1,1,0,1
+31,Low,pants,CLOTHES+ACCESS,0,0,0,1,1,1,0,0
+32,High,mother,FAMILY,1,0,0,0,0,0,1,-1
+51,Low,offspring,FAMILY,1,0,0,0,-1,0,1,-1
+35,Low,coffee,FOOD,0,1,-1,0,-1,-1,0,0
+36,High,apple,FOOD,0,1,1,0,1,0,0,1
+40,High,beef,FOOD,0,1,1,0,1,-1,0,0
+43,Low,bread,FOOD,0,1,0,0,1,1,0,1
+44,High,salt,FOOD,0,1,0,0,1,-1,0,-1
+47,Low,crop,FOOD,-1,1,-1,0,-1,-1,0,1
+48,High,donut,FOOD,0,1,0,0,1,1,0,1
+52,High,cake,FOOD,0,1,0,0,1,1,0,-1
+55,Low,cheese,FOOD,0,1,0,0,1,1,0,0
+56,High,ginger,FOOD,0,1,1,0,1,0,0,1
+59,Low,limb,HUMAN PART,0,-1,-1,0,1,0,0,1
+60,High,femur,HUMAN PART,0,0,-1,0,1,0,0,0
+39,Low,crystal,NATURE INANIMATE,0,0,1,1,1,0,0,0
+63,Low,flower,NATURE INANIMATE,1,0,1,1,1,0,0,1
+64,High,maple,NATURE INANIMATE,1,0,1,0,0,0,-1,-1
+67,Low,liquid,NATURE INANIMATE,0,-1,1,0,-1,0,-1,-1
+68,High,oxygen,NATURE INANIMATE,0,0,1,0,0,0,0,-1
+91,Low,stone,NATURE INANIMATE,0,0,1,-1,1,0,0,0
+71,Low,scientist,OCCUPATION,1,0,0,0,0,1,1,1
+72,High,senator,OCCUPATION,1,0,0,0,0,1,1,1
+75,Low,musician,OCCUPATION,1,0,0,0,0,1,1,1
+76,High,queen,OCCUPATION,1,0,0,0,0,1,1,1
+79,Low,math,OTHER,0,0,0,0,0,-1,0,-1
+80,High,hotel,OTHER,0,0,0,0,0,1,0,0
+83,Low,room,OTHER,0,0,0,0,0,1,0,-1
+84,High,stroke,OTHER,0,0,-1,0,0,0,0,-1
+87,Low,institution,OTHER,0,0,0,0,0,1,0,-1
+88,High,comedy,OTHER,0,0,0,0,0,1,0,-1
+92,High,baseball,SPORT+LEISURE,0,0,0,0,0,1,0,-1
+95,Low,media,SPORT+LEISURE,0,0,0,0,-1,1,0,-1
+96,High,bongo,SPORT+LEISURE,0,0,0,-1,1,1,0,1

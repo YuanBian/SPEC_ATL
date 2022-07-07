@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+60,High,FEMUR,HUMAN PART,Can you wear it?,3,0,4000
+28,High,SNEAKERS,CLOTHES+ACCESS,Can you wear it?,3,1,4000
+27,Low,MAKEUP,ARTIFACTS,Does it float in water?,7,0,4000
+55,Low,CHEESE,FOOD,Can you eat or drink it?,1,1,4000
+84,High,STROKE,OTHER,Did humans create it?,5,0,4000
+67,Low,LIQUID,NATURE INANIMATE,Can you wear it?,3,0,4000
+28,High,SNEAKERS,CLOTHES+ACCESS,Does it float in water?,7,1,4000
+28,High,SNEAKERS,CLOTHES+ACCESS,Can you find it in the wild?,2,0,4000
+7,Low,SNAKE,ANIMAL,Did humans create it?,5,0,4000
+63,Low,FLOWER,NATURE INANIMATE,Does it float in water?,7,1,4000
+31,Low,PANTS,CLOTHES+ACCESS,Does it make sounds?,6,0,4000
+56,High,GINGER,FOOD,Does it make sounds?,6,0,4000
+39,Low,CRYSTAL,NATURE INANIMATE,Can you find it in the wild?,2,1,4000
+31,Low,PANTS,CLOTHES+ACCESS,Can you find it in the wild?,2,0,4000
+12,High,TURKEY,ANIMAL,Can you eat or drink it?,1,1,4000
+91,Low,STONE,NATURE INANIMATE,Did humans create it?,5,0,4000
+72,High,SENATOR,OCCUPATION,Does it make sounds?,6,1,4000
+20,High,REFRIGERATOR,ARTIFACTS,Did humans create it?,5,1,4000
+39,Low,CRYSTAL,NATURE INANIMATE,Did humans create it?,5,0,4000
+19,Low,JEWEL,ARTIFACTS,Does it make sounds?,6,0,4000
+56,High,GINGER,FOOD,Did humans create it?,5,0,4000
+48,High,DONUT,FOOD,Can you hold it?,4,1,4000
+3,Low,BEAR,ANIMAL,Does it float in water?,7,1,4000
+48,High,DONUT,FOOD,Is it alive?,0,0,4000
+96,High,BONGO,SPORT+LEISURE,Does it float in water?,7,1,4000
+27,Low,MAKEUP,ARTIFACTS,Can you hold it?,4,1,4000
+56,High,GINGER,FOOD,Is it alive?,0,0,4000
+8,High,GORILLA,ANIMAL,Can you find it in the wild?,2,1,4000
+32,High,MOTHER,FAMILY,Can you hold it?,4,0,4000
+59,Low,LIMB,HUMAN PART,Does it make sounds?,6,0,4000
+79,Low,MATH,OTHER,Can you wear it?,3,0,4000
+80,High,HOTEL,OTHER,Does it float in water?,7,0,4000
+32,High,MOTHER,FAMILY,Does it make sounds?,6,1,4000
+35,Low,COFFEE,FOOD,Can you eat or drink it?,1,1,4000
+63,Low,FLOWER,NATURE INANIMATE,Can you wear it?,3,1,4000
+67,Low,LIQUID,NATURE INANIMATE,Is it alive?,0,0,4000
+64,High,MAPLE,NATURE INANIMATE,Can you eat or drink it?,1,0,4000
+68,High,OXYGEN,NATURE INANIMATE,Can you find it in the wild?,2,1,4000
+43,Low,BREAD,FOOD,Can you find it in the wild?,2,0,4000
+72,High,SENATOR,OCCUPATION,Is it alive?,0,1,4000
+80,High,HOTEL,OTHER,Can you wear it?,3,0,4000
+55,Low,CHEESE,FOOD,Can you hold it?,4,1,4000
+3,Low,BEAR,ANIMAL,Is it alive?,0,1,4000
+84,High,STROKE,OTHER,Can you eat or drink it?,1,0,4000
+43,Low,BREAD,FOOD,Can you hold it?,4,1,4000
+43,Low,BREAD,FOOD,Can you eat or drink it?,1,1,4000
+7,Low,SNAKE,ANIMAL,Is it alive?,0,1,4000
+12,High,TURKEY,ANIMAL,Can you hold it?,4,1,4000

@@ -1,0 +1,566 @@
+
+<style>
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type="number"] {
+    -moz-appearance: textfield;
+}
+</style>
+
+<script type="text/javascript">
+
+function stopRKey(evt) {
+  var evt = (evt) ? evt : ((event) ? event : null);
+  var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
+  if ((evt.keyCode == 13) && (node.type=="text"))  {return false;}
+}
+
+document.onkeypress = stopRKey;
+
+</script>
+
+<h1>Sentence understanding</h1>
+
+<p>&nbsp;</p>
+
+<p><font color="red"><b>SURVEY CODE:happypuppy </b></font></p>
+
+
+<p><font color="red"><i><b>PLEASE COMPLETE ONLY ONE&nbsp;</b><b>SURVEY WITH CODE </b><b>happypuppy</b><b>.&nbsp; YOU WILL NOT BE PAID FOR COMPLETING MORE THAN ONE SURVEY WITH THIS CODE.</b></i></font></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Consent Statement<br />
+<br />
+By answering the following questions, you are participating in a study being performed by cognitive scientists in the MIT Department of Brain and Cognitive Science. If you have questions about this research, please contact Edward Gibson at egibson@mit.edu. Your participation in this research is voluntary. You may decline to answer any or all of the following questions. You may decline further participation, at any time, without adverse consequences. Your anonymity is assured; the researchers who have requested your participation will not receive any personal information about you.&nbsp;</p>
+
+<p>Please answer the background questions below. The only restriction to being paid is achieving the accuracy requirements listed below. Payment is NOT dependent on your answers to the following background questions on country and language.</p>
+
+<p>What country are you from? <input name="country" type="radio" value="USA" /><span class="answertext">USA </span>&nbsp;&nbsp;&nbsp; <input name="country" type="radio" value="CAN" /><span class="answertext">Canada</span>&nbsp; &nbsp; <input name="country" type="radio" value="UK" /><span class="answertext">UK &nbsp; &nbsp; </span><input name="country" type="radio" value="AUS" />Australia / New Zealand &nbsp;&nbsp;&nbsp;&nbsp;<input name="country" type="radio" value="IND" /><span class="answertext">India&nbsp; &nbsp; </span><input name="country" type="radio" value="OTHER" /><span class="answertext">Other&nbsp;&nbsp;</span></p>
+
+<p>Is English your first language? <input name="English" type="radio" value="yes" /><span class="answertext"> Yes </span>&nbsp;&nbsp;&nbsp;<input name="English" type="radio" value="no" /><span class="answertext">No</span></p>
+
+<p>What is your gender? <input name="gender" type="radio" value="Female" /><span class="answertext"> Female </span>&nbsp;&nbsp;&nbsp;<input name="gender" type="radio" value="Male" /><span class="answertext">Male</span>&nbsp;&nbsp;&nbsp;<input name="gender" type="radio" value="Other" /><span class="answertext">Other</span></p>
+
+<p>what is your age? (Enter number) <input type="number" name="age" min="1" max="100" step="1"/><span class="answertext"></p>
+
+<h2>Instructions</h2>
+
+<p><i>Please read the question, and choose the option you think is right.</i></p>
+
+<p><i>Words vary a lot in how specific they are in their meanings. Some words are very broad, like “thing” or “entity” or “person”, others are much more specific, like “scallop” or “desk lamp” or “truck driver”. You can think of the breadth of a word’s meaning in terms of how many things/entities in the world the word can apply to (more things/entities > broader meaning).</i></p>
+
+<p><i>In this study, you will see 100 pairs words. One word in each pair will be broader in meaning. Your task to chose  — for each pair — the word that is broader in meaning. If you are not sure, just make your best guess. This HIT contains a number of catch trials which we expect everyone to be able to answer correctly. If you don’t answer most of these correctly, you will not get paid. 
+
+</i></p>
+<br />
+---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__1}__1"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__1" /><span class="answertext">${optA__1} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__1"  /><span class="answertext">${optB__1} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__2}__2"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__2" /><span class="answertext">${optA__2} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__2"  /><span class="answertext">${optB__2} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__3}__3"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__3" /><span class="answertext">${optA__3} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__3"  /><span class="answertext">${optB__3} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__4}__4"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__4" /><span class="answertext">${optA__4} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__4"  /><span class="answertext">${optB__4} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__5}__5"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__5" /><span class="answertext">${optA__5} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__5"  /><span class="answertext">${optB__5} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__6}__6"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__6" /><span class="answertext">${optA__6} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__6"  /><span class="answertext">${optB__6} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__7}__7"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__7" /><span class="answertext">${optA__7} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__7"  /><span class="answertext">${optB__7} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__8}__8"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__8" /><span class="answertext">${optA__8} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__8"  /><span class="answertext">${optB__8} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__9}__9"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__9" /><span class="answertext">${optA__9} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__9"  /><span class="answertext">${optB__9} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__10}__10"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__10" /><span class="answertext">${optA__10} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__10"  /><span class="answertext">${optB__10} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__11}__11"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__11" /><span class="answertext">${optA__11} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__11"  /><span class="answertext">${optB__11} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__12}__12"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__12" /><span class="answertext">${optA__12} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__12"  /><span class="answertext">${optB__12} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__13}__13"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__13" /><span class="answertext">${optA__13} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__13"  /><span class="answertext">${optB__13} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__14}__14"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__14" /><span class="answertext">${optA__14} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__14"  /><span class="answertext">${optB__14} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__15}__15"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__15" /><span class="answertext">${optA__15} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__15"  /><span class="answertext">${optB__15} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__16}__16"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__16" /><span class="answertext">${optA__16} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__16"  /><span class="answertext">${optB__16} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__17}__17"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__17" /><span class="answertext">${optA__17} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__17"  /><span class="answertext">${optB__17} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__18}__18"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__18" /><span class="answertext">${optA__18} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__18"  /><span class="answertext">${optB__18} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__19}__19"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__19" /><span class="answertext">${optA__19} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__19"  /><span class="answertext">${optB__19} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__20}__20"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__20" /><span class="answertext">${optA__20} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__20"  /><span class="answertext">${optB__20} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__21}__21"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__21" /><span class="answertext">${optA__21} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__21"  /><span class="answertext">${optB__21} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__22}__22"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__22" /><span class="answertext">${optA__22} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__22"  /><span class="answertext">${optB__22} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__23}__23"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__23" /><span class="answertext">${optA__23} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__23"  /><span class="answertext">${optB__23} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__24}__24"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__24" /><span class="answertext">${optA__24} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__24"  /><span class="answertext">${optB__24} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__25}__25"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__25" /><span class="answertext">${optA__25} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__25"  /><span class="answertext">${optB__25} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__26}__26"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__26" /><span class="answertext">${optA__26} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__26"  /><span class="answertext">${optB__26} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__27}__27"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__27" /><span class="answertext">${optA__27} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__27"  /><span class="answertext">${optB__27} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__28}__28"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__28" /><span class="answertext">${optA__28} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__28"  /><span class="answertext">${optB__28} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__29}__29"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__29" /><span class="answertext">${optA__29} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__29"  /><span class="answertext">${optB__29} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__30}__30"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__30" /><span class="answertext">${optA__30} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__30"  /><span class="answertext">${optB__30} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__31}__31"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__31" /><span class="answertext">${optA__31} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__31"  /><span class="answertext">${optB__31} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__32}__32"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__32" /><span class="answertext">${optA__32} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__32"  /><span class="answertext">${optB__32} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__33}__33"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__33" /><span class="answertext">${optA__33} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__33"  /><span class="answertext">${optB__33} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__34}__34"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__34" /><span class="answertext">${optA__34} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__34"  /><span class="answertext">${optB__34} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__35}__35"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__35" /><span class="answertext">${optA__35} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__35"  /><span class="answertext">${optB__35} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__36}__36"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__36" /><span class="answertext">${optA__36} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__36"  /><span class="answertext">${optB__36} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__37}__37"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__37" /><span class="answertext">${optA__37} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__37"  /><span class="answertext">${optB__37} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__38}__38"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__38" /><span class="answertext">${optA__38} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__38"  /><span class="answertext">${optB__38} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__39}__39"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__39" /><span class="answertext">${optA__39} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__39"  /><span class="answertext">${optB__39} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__40}__40"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__40" /><span class="answertext">${optA__40} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__40"  /><span class="answertext">${optB__40} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__41}__41"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__41" /><span class="answertext">${optA__41} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__41"  /><span class="answertext">${optB__41} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__42}__42"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__42" /><span class="answertext">${optA__42} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__42"  /><span class="answertext">${optB__42} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__43}__43"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__43" /><span class="answertext">${optA__43} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__43"  /><span class="answertext">${optB__43} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__44}__44"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__44" /><span class="answertext">${optA__44} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__44"  /><span class="answertext">${optB__44} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__45}__45"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__45" /><span class="answertext">${optA__45} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__45"  /><span class="answertext">${optB__45} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__46}__46"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__46" /><span class="answertext">${optA__46} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__46"  /><span class="answertext">${optB__46} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__47}__47"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__47" /><span class="answertext">${optA__47} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__47"  /><span class="answertext">${optB__47} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__48}__48"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__48" /><span class="answertext">${optA__48} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__48"  /><span class="answertext">${optB__48} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__49}__49"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__49" /><span class="answertext">${optA__49} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__49"  /><span class="answertext">${optB__49} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__50}__50"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__50" /><span class="answertext">${optA__50} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__50"  /><span class="answertext">${optB__50} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__51}__51"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__51" /><span class="answertext">${optA__51} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__51"  /><span class="answertext">${optB__51} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__52}__52"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__52" /><span class="answertext">${optA__52} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__52"  /><span class="answertext">${optB__52} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__53}__53"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__53" /><span class="answertext">${optA__53} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__53"  /><span class="answertext">${optB__53} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__54}__54"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__54" /><span class="answertext">${optA__54} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__54"  /><span class="answertext">${optB__54} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__55}__55"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__55" /><span class="answertext">${optA__55} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__55"  /><span class="answertext">${optB__55} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__56}__56"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__56" /><span class="answertext">${optA__56} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__56"  /><span class="answertext">${optB__56} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__57}__57"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__57" /><span class="answertext">${optA__57} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__57"  /><span class="answertext">${optB__57} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__58}__58"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__58" /><span class="answertext">${optA__58} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__58"  /><span class="answertext">${optB__58} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__59}__59"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__59" /><span class="answertext">${optA__59} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__59"  /><span class="answertext">${optB__59} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__60}__60"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__60" /><span class="answertext">${optA__60} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__60"  /><span class="answertext">${optB__60} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__61}__61"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__61" /><span class="answertext">${optA__61} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__61"  /><span class="answertext">${optB__61} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__62}__62"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__62" /><span class="answertext">${optA__62} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__62"  /><span class="answertext">${optB__62} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__63}__63"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__63" /><span class="answertext">${optA__63} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__63"  /><span class="answertext">${optB__63} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__64}__64"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__64" /><span class="answertext">${optA__64} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__64"  /><span class="answertext">${optB__64} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__65}__65"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__65" /><span class="answertext">${optA__65} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__65"  /><span class="answertext">${optB__65} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__66}__66"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__66" /><span class="answertext">${optA__66} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__66"  /><span class="answertext">${optB__66} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__67}__67"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__67" /><span class="answertext">${optA__67} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__67"  /><span class="answertext">${optB__67} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__68}__68"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__68" /><span class="answertext">${optA__68} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__68"  /><span class="answertext">${optB__68} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__69}__69"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__69" /><span class="answertext">${optA__69} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__69"  /><span class="answertext">${optB__69} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__70}__70"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__70" /><span class="answertext">${optA__70} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__70"  /><span class="answertext">${optB__70} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__71}__71"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__71" /><span class="answertext">${optA__71} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__71"  /><span class="answertext">${optB__71} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__72}__72"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__72" /><span class="answertext">${optA__72} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__72"  /><span class="answertext">${optB__72} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__73}__73"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__73" /><span class="answertext">${optA__73} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__73"  /><span class="answertext">${optB__73} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__74}__74"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__74" /><span class="answertext">${optA__74} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__74"  /><span class="answertext">${optB__74} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__75}__75"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__75" /><span class="answertext">${optA__75} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__75"  /><span class="answertext">${optB__75} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__76}__76"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__76" /><span class="answertext">${optA__76} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__76"  /><span class="answertext">${optB__76} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__77}__77"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__77" /><span class="answertext">${optA__77} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__77"  /><span class="answertext">${optB__77} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__78}__78"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__78" /><span class="answertext">${optA__78} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__78"  /><span class="answertext">${optB__78} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__79}__79"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__79" /><span class="answertext">${optA__79} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__79"  /><span class="answertext">${optB__79} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__80}__80"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__80" /><span class="answertext">${optA__80} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__80"  /><span class="answertext">${optB__80} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__81}__81"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__81" /><span class="answertext">${optA__81} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__81"  /><span class="answertext">${optB__81} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__82}__82"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__82" /><span class="answertext">${optA__82} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__82"  /><span class="answertext">${optB__82} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__83}__83"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__83" /><span class="answertext">${optA__83} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__83"  /><span class="answertext">${optB__83} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__84}__84"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__84" /><span class="answertext">${optA__84} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__84"  /><span class="answertext">${optB__84} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__85}__85"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__85" /><span class="answertext">${optA__85} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__85"  /><span class="answertext">${optB__85} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__86}__86"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__86" /><span class="answertext">${optA__86} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__86"  /><span class="answertext">${optB__86} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__87}__87"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__87" /><span class="answertext">${optA__87} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__87"  /><span class="answertext">${optB__87} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__88}__88"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__88" /><span class="answertext">${optA__88} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__88"  /><span class="answertext">${optB__88} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__89}__89"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__89" /><span class="answertext">${optA__89} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__89"  /><span class="answertext">${optB__89} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__90}__90"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__90" /><span class="answertext">${optA__90} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__90"  /><span class="answertext">${optB__90} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__91}__91"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__91" /><span class="answertext">${optA__91} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__91"  /><span class="answertext">${optB__91} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__92}__92"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__92" /><span class="answertext">${optA__92} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__92"  /><span class="answertext">${optB__92} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__93}__93"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__93" /><span class="answertext">${optA__93} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__93"  /><span class="answertext">${optB__93} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__94}__94"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__94" /><span class="answertext">${optA__94} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__94"  /><span class="answertext">${optB__94} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__95}__95"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__95" /><span class="answertext">${optA__95} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__95"  /><span class="answertext">${optB__95} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__96}__96"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__96" /><span class="answertext">${optA__96} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__96"  /><span class="answertext">${optB__96} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__97}__97"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__97" /><span class="answertext">${optA__97} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__97"  /><span class="answertext">${optB__97} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__98}__98"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__98" /><span class="answertext">${optA__98} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__98"  /><span class="answertext">${optB__98} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__99}__99"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__99" /><span class="answertext">${optA__99} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__99"  /><span class="answertext">${optB__99} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p id="${code__100}__100"></p>
+    <p ><b>Question:</b> choose the word that is broader in meaning</p>
+<p><input type="radio" value="1" name="Rating__100" /><span class="answertext">${optA__100} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p> 
+<p><input type="radio" value="2" name="Rating__100"  /><span class="answertext">${optB__100} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p><b><br />
+</b>Please leave any comments here.</p>
+<p><textarea name="answer" cols="80" rows="3"></textarea></p>

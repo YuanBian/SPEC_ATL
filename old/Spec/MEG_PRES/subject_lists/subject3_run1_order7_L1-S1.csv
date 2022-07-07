@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+22,Low,COIN,ARTIFACTS,Does it float in water?,7,0,200
+34,Low,GRANDPARENT,FAMILY,Is it alive?,0,1,300
+6,Low,FISH,ANIMAL,Does it make sounds?,6,0,400
+85,High,DOLLAR,OTHER,Can you eat or drink it?,1,0,300
+53,High,EARTH,NATURE INANIMATE,Can you hold it?,4,0,400
+50,Low,ALCOHOL,FOOD,Can you eat or drink it?,1,1,400
+74,Low,ARTIST,OCCUPATION,Does it float in water?,7,1,600
+37,High,BROCCOLI,FOOD,Can you find it in the wild?,2,1,200
+62,Low,MUSCLE,HUMAN PART,Did humans create it?,5,0,500
+65,High,EARTHQUAKE,NATURE INANIMATE,Can you find it in the wild?,2,1,500
+6,Low,FISH,ANIMAL,Did humans create it?,5,0,200
+46,Low,SAUCE,FOOD,Can you eat or drink it?,1,1,400
+30,Low,HAT,CLOTHES+ACCESS,Can you hold it?,4,1,600
+41,High,COKE,FOOD,Did humans create it?,5,1,300
+34,Low,GRANDPARENT,FAMILY,Can you wear it?,3,0,500
+18,Low,CANDY,FOOD,Does it float in water?,7,0,600
+73,High,COMEDIAN,OCCUPATION,Does it make sounds?,6,1,500
+1,High,BULLDOG,ANIMAL,Does it float in water?,7,0,500
+22,Low,COIN,ARTIFACTS,Can you wear it?,3,0,400
+33,High,UNCLE,FAMILY,Can you hold it?,4,0,700
+22,Low,COIN,ARTIFACTS,Can you hold it?,4,1,400
+29,High,PURSE,CLOTHES+ACCESS,Does it make sounds?,6,0,500
+65,High,EARTHQUAKE,NATURE INANIMATE,Can you eat or drink it?,1,0,400
+65,High,EARTHQUAKE,NATURE INANIMATE,Can you wear it?,3,0,200
+38,Low,PASTA,FOOD,Can you eat or drink it?,1,1,700
+94,Low,DANCE,SPORT+LEISURE,Is it alive?,0,0,200
+77,High,BALLERINA,OCCUPATION,Does it make sounds?,6,1,200
+1,High,BULLDOG,ANIMAL,Can you find it in the wild?,2,0,200
+29,High,PURSE,CLOTHES+ACCESS,Can you wear it?,3,1,300
+78,Low,EMOTION,OTHER,Did humans create it?,5,0,300
+17,High,ASPIRIN,ARTIFACTS,Did humans create it?,5,1,300
+93,High,CHECKERS,SPORT+LEISURE,Is it alive?,0,0,600
+13,High,FROG,ANIMAL,Did humans create it?,5,0,700
+6,Low,FISH,ANIMAL,Can you find it in the wild?,2,1,300
+29,High,PURSE,CLOTHES+ACCESS,Does it float in water?,7,1,200
+41,High,COKE,FOOD,Can you eat or drink it?,1,1,300
+89,High,SPRING,OTHER,Can you hold it?,4,0,700
+74,Low,ARTIST,OCCUPATION,Does it make sounds?,6,1,500
+46,Low,SAUCE,FOOD,Can you hold it?,4,1,600
+30,Low,HAT,CLOTHES+ACCESS,Is it alive?,0,0,600
+9,High,SPARROW,ANIMAL,Does it float in water?,7,1,700
+14,Low,SPIDER,ANIMAL,Can you wear it?,3,0,500
+53,High,EARTH,NATURE INANIMATE,Can you wear it?,3,0,700
+73,High,COMEDIAN,OCCUPATION,Is it alive?,0,1,700
+14,Low,SPIDER,ANIMAL,Can you find it in the wild?,2,1,600
+77,High,BALLERINA,OCCUPATION,Is it alive?,0,1,700
+18,Low,CANDY,FOOD,Does it make sounds?,6,0,600
+10,Low,LIZARD,ANIMAL,Can you find it in the wild?,2,1,400

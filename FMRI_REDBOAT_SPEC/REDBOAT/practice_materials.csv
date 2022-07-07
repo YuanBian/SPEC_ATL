@@ -1,0 +1,9 @@
+Condition,Image,Match,Mismatch_Type,Word_1st,Word_2nd
+COMP_1W,BlueStar_3.jpg,match,0,WVCNZ,STAR
+COMP_1W,BlackBoat_2.jpg,mismatch,3,RJDNW,CUP
+COMP_2W,RedCar_3.jpg,mismatch,3,GREEN,CAR
+COMP_2W,GreenFork_1.jpg,match,3,GREEN,FORK
+LIST_1W,RedBag_2.jpg,match,0,XKQ,BAG
+LIST_1W,BlackCross_3.jpg,mismatch,0,QXSW,CUP
+LIST_2W,PinkLeaf_3.jpg,mismatch,1,HOUSE,STAR
+LIST_2W,BrownNote_3.jpg,match,0,HOUSE,NOTE

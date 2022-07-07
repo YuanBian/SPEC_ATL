@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+33,Low,RELATIVE,FAMILY,Does it make sounds?,6,1,4000
+18,High,LOLLIPOP,FOOD,Does it make sounds?,6,0,4000
+81,Low,CRIME,OTHER,Can you wear it?,3,0,4000
+21,Low,JEWELRY,ARTIFACTS,Is it alive?,0,0,4000
+25,Low,TOOL,ARTIFACTS,Can you hold it?,4,1,4000
+30,High,BERET,CLOTHES+ACCESS,Can you hold it?,4,1,4000
+46,High,GRAVY,FOOD,Is it alive?,0,0,4000
+66,High,SILICON,NATURE INANIMATE,Can you eat or drink it?,1,0,4000
+13,Low,AMPHIBIAN,ANIMAL,Does it float in water?,7,0,4000
+2,High,BEE,ANIMAL,Is it alive?,0,1,4000
+77,Low,DANCER,OCCUPATION,Does it float in water?,7,1,4000
+69,Low,METAL,NATURE INANIMATE,Can you wear it?,3,1,4000
+9,Low,BIRD,ANIMAL,Can you wear it?,3,0,4000
+82,High,ZOMBIE,OTHER,Can you wear it?,3,0,4000
+54,High,CHARDONNAY,FOOD,Can you find it in the wild?,2,0,4000
+57,Low,BEVERAGE,FOOD,Can you eat or drink it?,1,1,4000
+73,Low,ENTERTAINER,OCCUPATION,Can you hold it?,4,0,4000
+78,High,ANGER,OTHER,Can you eat or drink it?,1,0,4000
+70,High,SURGEON,OCCUPATION,Does it float in water?,7,1,4000
+29,Low,BAG,CLOTHES+ACCESS,Can you eat or drink it?,1,0,4000
+18,High,LOLLIPOP,FOOD,Can you eat or drink it?,1,1,4000
+70,High,SURGEON,OCCUPATION,Can you wear it?,3,0,4000
+17,Low,MEDICINE,ARTIFACTS,Does it float in water?,7,0,4000
+30,High,BERET,CLOTHES+ACCESS,Does it float in water?,7,1,4000
+17,Low,MEDICINE,ARTIFACTS,Can you eat or drink it?,1,1,4000
+70,High,SURGEON,OCCUPATION,Did humans create it?,5,1,4000
+69,Low,METAL,NATURE INANIMATE,Did humans create it?,5,0,4000
+18,High,LOLLIPOP,FOOD,Can you wear it?,3,0,4000
+10,High,GECKO,ANIMAL,Can you find it in the wild?,2,1,4000
+21,Low,JEWELRY,ARTIFACTS,Can you hold it?,4,1,4000
+41,Low,SODA,FOOD,Did humans create it?,5,1,4000
+22,High,PENNY,ARTIFACTS,Did humans create it?,5,1,4000
+73,Low,ENTERTAINER,OCCUPATION,Can you find it in the wild?,2,0,4000
+74,High,IMPRESSIONIST,OCCUPATION,Does it float in water?,7,1,4000
+73,Low,ENTERTAINER,OCCUPATION,Does it make sounds?,6,1,4000
+37,Low,VEGETABLE,FOOD,Does it make sounds?,6,0,4000
+13,Low,AMPHIBIAN,ANIMAL,Did humans create it?,5,0,4000
+42,High,PARSLEY,FOOD,Is it alive?,0,0,4000
+22,High,PENNY,ARTIFACTS,Can you hold it?,4,1,4000
+37,Low,VEGETABLE,FOOD,Can you find it in the wild?,2,1,4000
+69,Low,METAL,NATURE INANIMATE,Can you find it in the wild?,2,1,4000
+82,High,ZOMBIE,OTHER,Can you find it in the wild?,2,0,4000
+62,High,BICEPS,HUMAN PART,Does it make sounds?,6,0,4000
+9,Low,BIRD,ANIMAL,Is it alive?,0,1,4000
+26,High,BOWL,ARTIFACTS,Did humans create it?,5,1,4000
+90,High,KAYAK,SPORT+LEISURE,Does it make sounds?,6,0,4000
+41,Low,SODA,FOOD,Is it alive?,0,0,4000
+6,High,SALMON,ANIMAL,Can you hold it?,4,1,4000

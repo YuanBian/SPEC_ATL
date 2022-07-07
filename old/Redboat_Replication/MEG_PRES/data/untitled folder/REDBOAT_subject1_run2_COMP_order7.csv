@@ -1,0 +1,11 @@
+TrialOnset,Word_1st,Word_2nd,Condition,Match,Mismatch_Type,Image,ISI,Accuracy,RT,Dur,Response
+107.919611204998,rjdnw,Bag,COMP_1W,mismatch,1,BrownCar_1.jpg,400,0,0,4.42723821202526,
+112.319611205021,rjdnw,Plane,COMP_1W,mismatch,2,BlackCup_2.jpg,600,0,0,4.62095835001674,
+116.919611204998,Blue,Boat,COMP_2W,mismatch,2,RedBoat_1.jpg,600,0,0,4.607858036994,
+121.519611204974,Black,Boat,COMP_2W,match,0,BlackBoat_1.jpg,400,0,0,4.41375737806084,
+125.919611204998,wvcnz,Flag,COMP_1W,match,0,BlackFlag_1.jpg,400,0,0,4.42749688302865,
+130.319611205021,Red,Note,COMP_2W,match,0,RedNote_1.jpg,600,0,0,4.61028836097103,
+134.919611204998,wvcnz,Tree,COMP_1W,mismatch,3,BrownSquare_1.jpg,300,0,0,4.31432369700633,
+139.219611204986,wvcnz,Lock,COMP_1W,match,0,BlueLock_2.jpg,500,0,0,4.51778276002733,
+143.719611204986,Black,Star,COMP_2W,mismatch,3,GreenCross_3.jpg,300,0,0,4.32003430201439,
+148.019611204974,xkq,Heart,COMP_1W,match,0,PinkHeart_1.jpg,600,0,0,4.62468991405331,

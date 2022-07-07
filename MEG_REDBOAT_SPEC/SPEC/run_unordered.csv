@@ -1,0 +1,49 @@
+,Answer,Category,Condition,Noun,PairNumber,Question,QuestionIndex
+0,1.0,ANIMAL,High,sparrow,9.0,Is it alive?,0.0
+1,0.0,ARTIFACTS,High,ring,21.0,Is it alive?,0.0
+2,0.0,ARTIFACTS,High,aspirin,17.0,Is it alive?,0.0
+3,1.0,FOOD,High,ketchup,45.0,Can you eat or drink it?,1.0
+4,1.0,ARTIFACTS,High,aspirin,17.0,Can you eat or drink it?,1.0
+5,0.0,ARTIFACTS,High,phone,49.0,Can you eat or drink it?,1.0
+6,1.0,OTHER,High,spring,89.0,Can you find it in the wild?,2.0
+7,0.0,ANIMAL,High,bulldog,1.0,Can you find it in the wild?,2.0
+8,0.0,ARTIFACTS,High,ring,21.0,Can you find it in the wild?,2.0
+9,1.0,NATURE INANIMATE,High,gold,69.0,Can you wear it?,3.0
+10,1.0,CLOTHES+ACCESS,High,purse,29.0,Can you wear it?,3.0
+11,0.0,ANIMAL,High,sparrow,9.0,Can you wear it?,3.0
+12,1.0,FOOD,High,ketchup,45.0,Can you hold it?,4.0
+13,1.0,OTHER,High,dollar,85.0,Can you hold it?,4.0
+14,0.0,NATURE INANIMATE,High,earth,53.0,Can you hold it?,4.0
+15,1.0,FOOD,High,ketchup,45.0,Did humans create it?,5.0
+16,0.0,ANIMAL,High,sparrow,9.0,Did humans create it?,5.0
+17,0.0,NATURE INANIMATE,High,earth,53.0,Did humans create it?,5.0
+18,1.0,ARTIFACTS,High,phone,49.0,Does it make sounds?,6.0
+19,1.0,FAMILY,High,uncle,33.0,Does it make sounds?,6.0
+20,0.0,OTHER,High,murder,81.0,Does it make sounds?,6.0
+21,1.0,OCCUPATION,High,comedian,73.0,Does it float in water?,7.0
+22,0.0,ARTIFACTS,High,aspirin,17.0,Does it float in water?,7.0
+23,0.0,NATURE INANIMATE,High,gold,69.0,Does it float in water?,7.0
+24,1.0,OCCUPATION,Low,artist,74.0,Is it alive?,0.0
+25,1.0,ANIMAL,Low,spider,14.0,Is it alive?,0.0
+26,0.0,OTHER,Low,emotion,78.0,Is it alive?,0.0
+27,1.0,FOOD,Low,pasta,38.0,Can you eat or drink it?,1.0
+28,0.0,NATURE INANIMATE,Low,mineral,66.0,Can you eat or drink it?,1.0
+29,0.0,ARTIFACTS,Low,coin,22.0,Can you eat or drink it?,1.0
+30,1.0,ANIMAL,Low,insect,2.0,Can you find it in the wild?,2.0
+31,0.0,OTHER,Low,ideology,86.0,Can you find it in the wild?,2.0
+32,0.0,FOOD,Low,sauce,46.0,Can you find it in the wild?,2.0
+33,0.0,ANIMAL,Low,insect,2.0,Can you wear it?,3.0
+34,0.0,ANIMAL,Low,lizard,10.0,Can you wear it?,3.0
+35,0.0,ARTIFACTS,Low,coin,22.0,Can you wear it?,3.0
+36,1.0,FOOD,Low,candy,18.0,Can you hold it?,4.0
+37,1.0,ANIMAL,Low,fish,6.0,Can you hold it?,4.0
+38,1.0,FOOD,Low,herb,42.0,Can you hold it?,4.0
+39,1.0,FOOD,Low,sauce,46.0,Did humans create it?,5.0
+40,0.0,ANIMAL,Low,spider,14.0,Did humans create it?,5.0
+41,0.0,ANIMAL,Low,insect,2.0,Did humans create it?,5.0
+42,1.0,OCCUPATION,Low,artist,74.0,Does it make sounds?,6.0
+43,0.0,ARTIFACTS,Low,coin,22.0,Does it make sounds?,6.0
+44,0.0,FOOD,Low,alcohol,50.0,Does it make sounds?,6.0
+45,1.0,OCCUPATION,Low,artist,74.0,Does it float in water?,7.0
+46,1.0,ANIMAL,Low,spider,14.0,Does it float in water?,7.0
+47,1.0,ARTIFACTS,Low,container,26.0,Does it float in water?,7.0

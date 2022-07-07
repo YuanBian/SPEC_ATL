@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Is it alive?,Can you eat or drink it?,Can you find it in the wild?,Can you wear it?,Can you hold it?,Did humans create it?,Does it make sounds?,Does it float in water?
+1,High,bulldog,ANIMAL,1,0,0,0,1,-1,1,0
+2,Low,insect,ANIMAL,1,0,1,0,1,0,1,1
+5,High,mouse,ANIMAL,1,0,1,0,1,0,1,1
+6,Low,fish,ANIMAL,1,1,1,0,1,0,0,0
+9,High,sparrow,ANIMAL,1,0,1,0,1,0,1,1
+10,Low,lizard,ANIMAL,1,0,1,0,1,0,-1,1
+13,High,frog,ANIMAL,1,-1,1,0,1,0,1,0
+14,Low,spider,ANIMAL,1,0,1,0,1,0,-1,1
+17,High,aspirin,ARTIFACTS,0,1,0,0,1,1,0,0
+21,High,ring,ARTIFACTS,0,0,0,1,1,1,0,0
+22,Low,coin,ARTIFACTS,0,0,0,0,1,1,0,0
+25,High,axe,ARTIFACTS,0,0,0,-1,1,1,0,0
+26,Low,container,ARTIFACTS,0,0,0,0,-1,-1,0,1
+49,High,phone,ARTIFACTS,0,0,0,-1,1,1,1,0
+29,High,purse,CLOTHES+ACCESS,0,0,0,1,1,1,0,1
+30,Low,hat,CLOTHES+ACCESS,0,0,0,1,1,1,0,1
+33,High,uncle,FAMILY,1,0,0,0,0,0,1,-1
+34,Low,grandparent,FAMILY,1,0,0,0,0,0,1,-1
+18,Low,candy,FOOD,0,1,0,0,1,1,0,0
+37,High,broccoli,FOOD,0,1,1,0,1,0,0,-1
+38,Low,pasta,FOOD,0,1,0,0,1,1,0,-1
+41,High,coke,FOOD,0,1,0,0,-1,1,0,-1
+42,Low,herb,FOOD,0,1,1,0,1,0,0,1
+45,High,ketchup,FOOD,0,1,0,0,1,1,0,-1
+46,Low,sauce,FOOD,0,1,0,0,1,1,0,-1
+50,Low,alcohol,FOOD,0,1,0,0,-1,1,0,-1
+54,Low,wine,FOOD,0,1,0,0,-1,1,0,-1
+57,High,tea,FOOD,0,1,-1,0,-1,-1,0,-1
+58,Low,organ,HUMAN PART,-1,-1,-1,0,1,0,0,-1
+61,High,pinkie,HUMAN PART,0,0,-1,0,1,0,0,1
+62,Low,muscle,HUMAN PART,0,-1,-1,0,-1,0,0,0
+53,High,earth,NATURE INANIMATE,0,0,1,0,0,0,-1,-1
+65,High,earthquake,NATURE INANIMATE,0,0,1,0,0,0,-1,-1
+66,Low,mineral,NATURE INANIMATE,0,0,1,0,-1,0,0,0
+69,High,gold,NATURE INANIMATE,0,0,1,1,-1,0,0,0
+70,Low,doctor,OCCUPATION,1,0,0,0,0,1,1,1
+73,High,comedian,OCCUPATION,1,0,0,0,0,1,1,1
+74,Low,artist,OCCUPATION,1,0,0,0,0,1,1,1
+77,High,ballerina,OCCUPATION,1,0,0,0,0,1,1,1
+78,Low,emotion,OTHER,0,0,-1,0,0,0,0,-1
+81,High,murder,OTHER,0,0,-1,0,0,0,0,-1
+82,Low,monster,OTHER,-1,0,0,0,0,1,-1,-1
+85,High,dollar,OTHER,0,0,0,0,1,1,0,-1
+86,Low,ideology,OTHER,0,0,0,0,0,1,0,-1
+89,High,spring,OTHER,0,0,1,0,0,0,0,-1
+90,Low,boat,SPORT+LEISURE,0,0,0,0,-1,1,0,1
+93,High,checkers,SPORT+LEISURE,0,0,0,0,1,1,0,-1
+94,Low,dance,SPORT+LEISURE,0,0,0,0,0,1,0,-1

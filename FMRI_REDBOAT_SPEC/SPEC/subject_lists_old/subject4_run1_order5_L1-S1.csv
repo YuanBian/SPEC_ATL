@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+77,High,BALLERINA,OCCUPATION,Does it make sounds?,6,1,4000
+94,Low,DANCE,SPORT+LEISURE,Does it make sounds?,6,0,4000
+21,High,RING,ARTIFACTS,Can you find it in the wild?,2,0,4000
+38,Low,PASTA,FOOD,Can you eat or drink it?,1,1,4000
+54,Low,WINE,FOOD,Does it make sounds?,6,0,4000
+5,High,MOUSE,ANIMAL,Can you wear it?,3,0,4000
+37,High,BROCCOLI,FOOD,Did humans create it?,5,0,4000
+90,Low,BOAT,SPORT+LEISURE,Can you eat or drink it?,1,0,4000
+37,High,BROCCOLI,FOOD,Can you eat or drink it?,1,1,4000
+18,Low,CANDY,FOOD,Did humans create it?,5,1,4000
+85,High,DOLLAR,OTHER,Did humans create it?,5,1,4000
+70,Low,DOCTOR,OCCUPATION,Is it alive?,0,1,4000
+77,High,BALLERINA,OCCUPATION,Can you hold it?,4,0,4000
+74,Low,ARTIST,OCCUPATION,Can you hold it?,4,0,4000
+93,High,CHECKERS,SPORT+LEISURE,Can you hold it?,4,1,4000
+37,High,BROCCOLI,FOOD,Can you hold it?,4,1,4000
+30,Low,HAT,CLOTHES+ACCESS,Can you hold it?,4,1,4000
+41,High,COKE,FOOD,Can you eat or drink it?,1,1,4000
+66,Low,MINERAL,NATURE INANIMATE,Can you wear it?,3,0,4000
+10,Low,LIZARD,ANIMAL,Is it alive?,0,1,4000
+69,High,GOLD,NATURE INANIMATE,Does it make sounds?,6,0,4000
+2,Low,INSECT,ANIMAL,Can you find it in the wild?,2,1,4000
+94,Low,DANCE,SPORT+LEISURE,Did humans create it?,5,1,4000
+58,Low,ORGAN,HUMAN PART,Did humans create it?,5,0,4000
+21,High,RING,ARTIFACTS,Is it alive?,0,0,4000
+82,Low,MONSTER,OTHER,Can you hold it?,4,0,4000
+17,High,ASPIRIN,ARTIFACTS,Can you wear it?,3,0,4000
+14,Low,SPIDER,ANIMAL,Is it alive?,0,1,4000
+77,High,BALLERINA,OCCUPATION,Does it float in water?,7,1,4000
+9,High,SPARROW,ANIMAL,Can you wear it?,3,0,4000
+85,High,DOLLAR,OTHER,Can you eat or drink it?,1,0,4000
+10,Low,LIZARD,ANIMAL,Can you eat or drink it?,1,0,4000
+90,Low,BOAT,SPORT+LEISURE,Does it float in water?,7,1,4000
+9,High,SPARROW,ANIMAL,Does it float in water?,7,1,4000
+6,Low,FISH,ANIMAL,Can you find it in the wild?,2,1,4000
+22,Low,COIN,ARTIFACTS,Can you wear it?,3,0,4000
+69,High,GOLD,NATURE INANIMATE,Can you find it in the wild?,2,1,4000
+73,High,COMEDIAN,OCCUPATION,Does it float in water?,7,1,4000
+18,Low,CANDY,FOOD,Does it make sounds?,6,0,4000
+89,High,SPRING,OTHER,Can you find it in the wild?,2,1,4000
+57,High,TEA,FOOD,Is it alive?,0,0,4000
+2,Low,INSECT,ANIMAL,Does it float in water?,7,1,4000
+49,High,PHONE,ARTIFACTS,Did humans create it?,5,1,4000
+34,Low,GRANDPARENT,FAMILY,Can you find it in the wild?,2,0,4000
+41,High,COKE,FOOD,Does it make sounds?,6,0,4000
+70,Low,DOCTOR,OCCUPATION,Does it float in water?,7,1,4000
+49,High,PHONE,ARTIFACTS,Is it alive?,0,0,4000
+34,Low,GRANDPARENT,FAMILY,Can you wear it?,3,0,4000

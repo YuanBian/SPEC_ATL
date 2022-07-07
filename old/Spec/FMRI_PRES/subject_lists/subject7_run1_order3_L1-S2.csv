@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+64,Low,TREE,NATURE INANIMATE,Can you find it in the wild?,2,1,4000
+39,High,JADE,NATURE INANIMATE,Can you wear it?,3,1,4000
+51,High,DAUGHTER,FAMILY,Is it alive?,0,1,4000
+96,Low,DRUM,SPORT+LEISURE,Can you eat or drink it?,1,0,4000
+48,Low,PASTRY,FOOD,Can you eat or drink it?,1,1,4000
+11,High,KANGAROO,ANIMAL,Can you eat or drink it?,1,0,4000
+88,Low,GENRE,OTHER,Is it alive?,0,0,4000
+55,High,CHEDDAR,FOOD,Does it float in water?,7,0,4000
+52,Low,DESSERT,FOOD,Can you hold it?,4,1,4000
+7,High,COBRA,ANIMAL,Did humans create it?,5,0,4000
+67,High,WATER,NATURE INANIMATE,Did humans create it?,5,0,4000
+76,Low,ROYALTY,OCCUPATION,Does it float in water?,7,1,4000
+36,Low,FRUIT,FOOD,Can you hold it?,4,1,4000
+71,High,CHEMIST,OCCUPATION,Does it float in water?,7,1,4000
+71,High,CHEMIST,OCCUPATION,Can you eat or drink it?,1,0,4000
+28,Low,SHOES,CLOTHES+ACCESS,Did humans create it?,5,1,4000
+67,High,WATER,NATURE INANIMATE,Can you find it in the wild?,2,1,4000
+56,Low,SPICE,FOOD,Can you wear it?,3,0,4000
+76,Low,ROYALTY,OCCUPATION,Can you find it in the wild?,2,0,4000
+19,High,RUBY,ARTIFACTS,Does it make sounds?,6,0,4000
+76,Low,ROYALTY,OCCUPATION,Is it alive?,0,1,4000
+91,High,MARBLE,NATURE INANIMATE,Can you hold it?,4,1,4000
+11,High,KANGAROO,ANIMAL,Can you find it in the wild?,2,1,4000
+84,Low,DISEASE,OTHER,Does it make sounds?,6,0,4000
+3,High,PANDA,ANIMAL,Did humans create it?,5,0,4000
+84,Low,DISEASE,OTHER,Can you wear it?,3,0,4000
+4,Low,PET,ANIMAL,Can you hold it?,4,1,4000
+36,Low,FRUIT,FOOD,Does it make sounds?,6,0,4000
+11,High,KANGAROO,ANIMAL,Is it alive?,0,1,4000
+20,Low,APPLIANCE,ARTIFACTS,Does it float in water?,7,0,4000
+40,Low,MEAT,FOOD,Can you find it in the wild?,2,1,4000
+19,High,RUBY,ARTIFACTS,Can you hold it?,4,1,4000
+72,Low,POLITICIAN,OCCUPATION,Can you wear it?,3,0,4000
+47,High,WHEAT,FOOD,Can you wear it?,3,0,4000
+92,Low,SPORT,SPORT+LEISURE,Does it make sounds?,6,0,4000
+35,High,CAPPUCCINO,FOOD,Does it float in water?,7,0,4000
+4,Low,PET,ANIMAL,Is it alive?,0,1,4000
+19,High,RUBY,ARTIFACTS,Can you eat or drink it?,1,0,4000
+72,Low,POLITICIAN,OCCUPATION,Does it float in water?,7,1,4000
+19,High,RUBY,ARTIFACTS,Can you wear it?,3,1,4000
+40,Low,MEAT,FOOD,Can you eat or drink it?,1,1,4000
+15,High,TABLE,ARTIFACTS,Does it make sounds?,6,0,4000
+43,High,BAGEL,FOOD,Can you hold it?,4,1,4000
+60,Low,BONE,HUMAN PART,Did humans create it?,5,0,4000
+75,High,DRUMMER,OCCUPATION,Is it alive?,0,1,4000
+75,High,DRUMMER,OCCUPATION,Can you find it in the wild?,2,0,4000
+40,Low,MEAT,FOOD,Did humans create it?,5,0,4000
+75,High,DRUMMER,OCCUPATION,Does it make sounds?,6,1,4000

@@ -1,0 +1,6 @@
+TrialOnset,PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI,Accuracy,RT,Response
+6.04570101806894,18,Low,candy,FOOD,Can you hold it?,4,1,300,0,0,
+11.3457010181155,85,High,dollar,OTHER,Can you hold it?,4,1,700,0,0,
+17.0457010180689,34,Low,grandparent,FAMILY,Can you wear it?,3,0,300,0,0,
+22.3457010181155,57,High,tea,FOOD,Can you eat or drink it?,1,1,400,0,0,
+27.7457010180224,93,High,checkers,SPORT+LEISURE,Can you find it in the wild?,2,0,600,0,0,

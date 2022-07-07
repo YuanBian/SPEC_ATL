@@ -1,0 +1,6 @@
+TrialOnset,Word_1st,Word_2nd,Condition,Match,Mismatch_Type,Image,ISI,Accuracy,RT,Dur,Response
+5.13365551899187,Zbxlv,Cup,COMP_1W,mismatch,3,RedBone_3.jpg,300,0,0,4.34503330592997,
+9.43365551903844,Xkq,Heart,COMP_1W,match,0,PinkHeart_2.jpg,400,0,0,4.42495409888215,
+13.8336555189453,Green,Car,COMP_2W,match,0,GreenCar_2.jpg,200,0,0,4.22599296807311,
+18.0336555188987,Zbxlv,Shoe,COMP_1W,mismatch,1,GreenBone_1.jpg,600,0,0,4.62002493906766,
+22.6336555189919,Zbxlv,Plane,COMP_1W,match,0,GreenPlane_1.jpg,300,0,0,4.32723581790924,

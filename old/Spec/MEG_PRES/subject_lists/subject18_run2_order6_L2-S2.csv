@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+27,Low,MAKEUP,ARTIFACTS,Can you eat or drink it?,1,0,400
+87,Low,INSTITUTION,OTHER,Can you wear it?,3,0,200
+96,High,BONGO,SPORT+LEISURE,Does it float in water?,7,1,600
+28,High,SNEAKERS,CLOTHES+ACCESS,Can you wear it?,3,1,400
+27,Low,MAKEUP,ARTIFACTS,Can you wear it?,3,1,200
+55,Low,CHEESE,FOOD,Can you hold it?,4,1,700
+20,High,REFRIGERATOR,ARTIFACTS,Does it float in water?,7,0,200
+91,Low,STONE,NATURE INANIMATE,Can you eat or drink it?,1,0,500
+40,High,BEEF,FOOD,Can you eat or drink it?,1,1,600
+3,Low,BEAR,ANIMAL,Does it make sounds?,6,1,500
+7,Low,SNAKE,ANIMAL,Can you hold it?,4,1,600
+3,Low,BEAR,ANIMAL,Did humans create it?,5,0,700
+88,High,COMEDY,OTHER,Is it alive?,0,0,400
+40,High,BEEF,FOOD,Can you find it in the wild?,2,1,200
+35,Low,COFFEE,FOOD,Does it make sounds?,6,0,400
+76,High,QUEEN,OCCUPATION,Can you find it in the wild?,2,0,300
+27,Low,MAKEUP,ARTIFACTS,Does it float in water?,7,0,700
+44,High,SALT,FOOD,Can you eat or drink it?,1,1,300
+63,Low,FLOWER,NATURE INANIMATE,Can you find it in the wild?,2,1,500
+7,Low,SNAKE,ANIMAL,Is it alive?,0,1,300
+76,High,QUEEN,OCCUPATION,Can you wear it?,3,0,700
+16,High,FORK,ARTIFACTS,Did humans create it?,5,1,300
+48,High,DONUT,FOOD,Can you find it in the wild?,2,0,600
+7,Low,SNAKE,ANIMAL,Can you find it in the wild?,2,1,200
+32,High,MOTHER,FAMILY,Can you wear it?,3,0,200
+19,Low,JEWEL,ARTIFACTS,Can you hold it?,4,1,500
+95,Low,MEDIA,SPORT+LEISURE,Can you wear it?,3,0,300
+79,Low,MATH,OTHER,Does it make sounds?,6,0,300
+60,High,FEMUR,HUMAN PART,Can you hold it?,4,1,300
+92,High,BASEBALL,SPORT+LEISURE,Did humans create it?,5,1,500
+91,Low,STONE,NATURE INANIMATE,Can you find it in the wild?,2,1,200
+48,High,DONUT,FOOD,Does it float in water?,7,1,700
+91,Low,STONE,NATURE INANIMATE,Did humans create it?,5,0,500
+84,High,STROKE,OTHER,Can you hold it?,4,0,400
+76,High,QUEEN,OCCUPATION,Does it make sounds?,6,1,600
+83,Low,ROOM,OTHER,Did humans create it?,5,1,600
+39,Low,CRYSTAL,NATURE INANIMATE,Does it float in water?,7,0,400
+24,High,SILK,ARTIFACTS,Does it make sounds?,6,0,600
+8,High,GORILLA,ANIMAL,Is it alive?,0,1,300
+67,Low,LIQUID,NATURE INANIMATE,Is it alive?,0,0,700
+72,High,SENATOR,OCCUPATION,Can you eat or drink it?,1,0,400
+11,Low,MARSUPIAL,ANIMAL,Is it alive?,0,1,400
+40,High,BEEF,FOOD,Can you hold it?,4,1,600
+84,High,STROKE,OTHER,Did humans create it?,5,0,700
+19,Low,JEWEL,ARTIFACTS,Does it float in water?,7,0,500
+43,Low,BREAD,FOOD,Can you eat or drink it?,1,1,200
+60,High,FEMUR,HUMAN PART,Does it make sounds?,6,0,700
+44,High,SALT,FOOD,Is it alive?,0,0,500

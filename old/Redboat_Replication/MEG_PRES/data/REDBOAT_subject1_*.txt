@@ -1,0 +1,9 @@
+TrialOnset,Word_1st,Word_2nd,Condition,Match,Mismatch_Type,Image,ISI,Accuracy,RT,Dur,Response
+2.09165390802082,,,,,,,,,0,4.55430402298225,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,

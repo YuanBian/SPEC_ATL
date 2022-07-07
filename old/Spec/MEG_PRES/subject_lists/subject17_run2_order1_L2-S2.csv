@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+19,Low,JEWEL,ARTIFACTS,Does it float in water?,7,0,300
+11,Low,MARSUPIAL,ANIMAL,Is it alive?,0,1,500
+84,High,STROKE,OTHER,Does it make sounds?,6,0,600
+3,Low,BEAR,ANIMAL,Does it make sounds?,6,1,400
+48,High,DONUT,FOOD,Can you hold it?,4,1,300
+51,Low,OFFSPRING,FAMILY,Does it make sounds?,6,1,400
+40,High,BEEF,FOOD,Does it float in water?,7,0,200
+51,Low,OFFSPRING,FAMILY,Is it alive?,0,1,500
+20,High,REFRIGERATOR,ARTIFACTS,Did humans create it?,5,1,300
+3,Low,BEAR,ANIMAL,Can you eat or drink it?,1,0,400
+40,High,BEEF,FOOD,Can you eat or drink it?,1,1,500
+75,Low,MUSICIAN,OCCUPATION,Did humans create it?,5,1,500
+4,High,CAT,ANIMAL,Can you wear it?,3,0,400
+95,Low,MEDIA,SPORT+LEISURE,Can you wear it?,3,0,300
+27,Low,MAKEUP,ARTIFACTS,Can you hold it?,4,1,700
+60,High,FEMUR,HUMAN PART,Does it float in water?,7,0,600
+4,High,CAT,ANIMAL,Does it make sounds?,6,1,500
+72,High,SENATOR,OCCUPATION,Did humans create it?,5,1,200
+43,Low,BREAD,FOOD,Did humans create it?,5,1,600
+8,High,GORILLA,ANIMAL,Does it make sounds?,6,1,200
+27,Low,MAKEUP,ARTIFACTS,Does it float in water?,7,0,400
+7,Low,SNAKE,ANIMAL,Does it float in water?,7,0,400
+12,High,TURKEY,ANIMAL,Is it alive?,0,1,600
+76,High,QUEEN,OCCUPATION,Can you hold it?,4,0,700
+23,Low,WEAPON,ARTIFACTS,Can you eat or drink it?,1,0,300
+15,Low,FURNITURE,ARTIFACTS,Can you find it in the wild?,2,0,700
+48,High,DONUT,FOOD,Can you find it in the wild?,2,0,700
+72,High,SENATOR,OCCUPATION,Is it alive?,0,1,200
+67,Low,LIQUID,NATURE INANIMATE,Can you find it in the wild?,2,1,600
+80,High,HOTEL,OTHER,Does it float in water?,7,0,200
+36,High,APPLE,FOOD,Can you wear it?,3,0,500
+36,High,APPLE,FOOD,Can you eat or drink it?,1,1,500
+91,Low,STONE,NATURE INANIMATE,Can you hold it?,4,1,400
+63,Low,FLOWER,NATURE INANIMATE,Can you wear it?,3,1,300
+83,Low,ROOM,OTHER,Can you wear it?,3,0,500
+24,High,SILK,ARTIFACTS,Can you find it in the wild?,2,0,200
+28,High,SNEAKERS,CLOTHES+ACCESS,Can you find it in the wild?,2,0,700
+55,Low,CHEESE,FOOD,Can you find it in the wild?,2,0,300
+15,Low,FURNITURE,ARTIFACTS,Did humans create it?,5,1,700
+12,High,TURKEY,ANIMAL,Can you eat or drink it?,1,1,200
+87,Low,INSTITUTION,OTHER,Does it make sounds?,6,0,300
+72,High,SENATOR,OCCUPATION,Can you hold it?,4,0,700
+48,High,DONUT,FOOD,Did humans create it?,5,1,200
+68,High,OXYGEN,NATURE INANIMATE,Can you wear it?,3,0,600
+95,Low,MEDIA,SPORT+LEISURE,Can you eat or drink it?,1,0,400
+79,Low,MATH,OTHER,Can you hold it?,4,0,600
+7,Low,SNAKE,ANIMAL,Is it alive?,0,1,600
+4,High,CAT,ANIMAL,Is it alive?,0,1,700

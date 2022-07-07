@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+49,Low,GADGET,ARTIFACTS,Does it float in water?,7,0,400
+89,Low,SEASON,OTHER,Can you find it in the wild?,2,1,600
+62,High,BICEPS,HUMAN PART,Can you eat or drink it?,1,0,200
+53,Low,PLANET,NATURE INANIMATE,Can you find it in the wild?,2,1,700
+30,High,BERET,CLOTHES+ACCESS,Can you hold it?,4,1,300
+37,Low,VEGETABLE,FOOD,Can you eat or drink it?,1,1,300
+86,High,DEMOCRACY,OTHER,Does it make sounds?,6,0,600
+1,Low,DOG,ANIMAL,Does it float in water?,7,1,400
+6,High,SALMON,ANIMAL,Can you find it in the wild?,2,1,700
+9,Low,BIRD,ANIMAL,Did humans create it?,5,0,700
+70,High,SURGEON,OCCUPATION,Is it alive?,0,1,200
+77,Low,DANCER,OCCUPATION,Is it alive?,0,1,500
+90,High,KAYAK,SPORT+LEISURE,Is it alive?,0,0,700
+73,Low,ENTERTAINER,OCCUPATION,Can you hold it?,4,0,600
+57,Low,BEVERAGE,FOOD,Can you eat or drink it?,1,1,400
+50,High,VODKA,FOOD,Can you wear it?,3,0,600
+54,High,CHARDONNAY,FOOD,Can you eat or drink it?,1,1,500
+34,High,GRANDFATHER,FAMILY,Does it make sounds?,6,1,500
+29,Low,BAG,CLOTHES+ACCESS,Can you hold it?,4,1,700
+26,High,BOWL,ARTIFACTS,Can you hold it?,4,1,700
+45,Low,CONDIMENT,FOOD,Is it alive?,0,0,500
+41,Low,SODA,FOOD,Does it make sounds?,6,0,300
+38,High,SPAGHETTI,FOOD,Can you hold it?,4,1,700
+58,High,BRAIN,HUMAN PART,Can you wear it?,3,0,400
+61,Low,FINGER,HUMAN PART,Did humans create it?,5,0,600
+13,Low,AMPHIBIAN,ANIMAL,Did humans create it?,5,0,500
+18,High,LOLLIPOP,FOOD,Can you wear it?,3,0,500
+42,High,PARSLEY,FOOD,Can you find it in the wild?,2,1,200
+5,Low,MAMMAL,ANIMAL,Does it float in water?,7,1,300
+78,High,ANGER,OTHER,Can you eat or drink it?,1,0,500
+94,High,TANGO,SPORT+LEISURE,Does it make sounds?,6,0,200
+82,High,ZOMBIE,OTHER,Did humans create it?,5,1,200
+21,Low,JEWELRY,ARTIFACTS,Can you wear it?,3,1,500
+69,Low,METAL,NATURE INANIMATE,Can you wear it?,3,1,300
+85,Low,CURRENCY,OTHER,Does it make sounds?,6,0,400
+46,High,GRAVY,FOOD,Is it alive?,0,0,600
+22,High,PENNY,ARTIFACTS,Does it float in water?,7,0,600
+81,Low,CRIME,OTHER,Can you hold it?,4,0,400
+65,Low,DISASTER,NATURE INANIMATE,Can you find it in the wild?,2,1,300
+10,High,GECKO,ANIMAL,Can you find it in the wild?,2,1,700
+33,Low,RELATIVE,FAMILY,Can you wear it?,3,0,300
+14,High,TARANTULA,ANIMAL,Did humans create it?,5,0,300
+2,High,BEE,ANIMAL,Does it float in water?,7,1,200
+66,High,SILICON,NATURE INANIMATE,Does it float in water?,7,0,200
+25,Low,TOOL,ARTIFACTS,Is it alive?,0,0,600
+93,Low,GAME,SPORT+LEISURE,Does it make sounds?,6,0,400
+17,Low,MEDICINE,ARTIFACTS,Can you eat or drink it?,1,1,400
+74,High,IMPRESSIONIST,OCCUPATION,Did humans create it?,5,1,200

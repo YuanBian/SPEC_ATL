@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+21,High,RING,ARTIFACTS,Can you wear it?,3,1,700
+14,Low,SPIDER,ANIMAL,Can you find it in the wild?,2,1,400
+1,High,BULLDOG,ANIMAL,Does it float in water?,7,0,700
+82,Low,MONSTER,OTHER,Can you wear it?,3,0,400
+42,Low,HERB,FOOD,Can you find it in the wild?,2,1,300
+93,High,CHECKERS,SPORT+LEISURE,Did humans create it?,5,1,500
+49,High,PHONE,ARTIFACTS,Can you find it in the wild?,2,0,300
+30,Low,HAT,CLOTHES+ACCESS,Can you wear it?,3,1,500
+10,Low,LIZARD,ANIMAL,Does it float in water?,7,1,200
+57,High,TEA,FOOD,Does it make sounds?,6,0,400
+18,Low,CANDY,FOOD,Is it alive?,0,0,200
+90,Low,BOAT,SPORT+LEISURE,Is it alive?,0,0,700
+50,Low,ALCOHOL,FOOD,Did humans create it?,5,1,200
+69,High,GOLD,NATURE INANIMATE,Can you wear it?,3,1,200
+89,High,SPRING,OTHER,Can you hold it?,4,0,400
+66,Low,MINERAL,NATURE INANIMATE,Can you find it in the wild?,2,1,700
+29,High,PURSE,CLOTHES+ACCESS,Can you wear it?,3,1,300
+38,Low,PASTA,FOOD,Is it alive?,0,0,600
+94,Low,DANCE,SPORT+LEISURE,Can you eat or drink it?,1,0,400
+13,High,FROG,ANIMAL,Does it float in water?,7,0,300
+85,High,DOLLAR,OTHER,Is it alive?,0,0,200
+73,High,COMEDIAN,OCCUPATION,Is it alive?,0,1,300
+54,Low,WINE,FOOD,Does it make sounds?,6,0,600
+65,High,EARTHQUAKE,NATURE INANIMATE,Can you hold it?,4,0,500
+78,Low,EMOTION,OTHER,Can you hold it?,4,0,200
+62,Low,MUSCLE,HUMAN PART,Does it float in water?,7,0,700
+58,Low,ORGAN,HUMAN PART,Can you hold it?,4,1,500
+33,High,UNCLE,FAMILY,Can you hold it?,4,0,600
+86,Low,IDEOLOGY,OTHER,Can you hold it?,4,0,500
+81,High,MURDER,OTHER,Does it make sounds?,6,0,500
+6,Low,FISH,ANIMAL,Does it float in water?,7,0,600
+2,Low,INSECT,ANIMAL,Does it make sounds?,6,1,600
+46,Low,SAUCE,FOOD,Can you eat or drink it?,1,1,400
+9,High,SPARROW,ANIMAL,Can you find it in the wild?,2,1,700
+25,High,AXE,ARTIFACTS,Can you eat or drink it?,1,0,400
+37,High,BROCCOLI,FOOD,Is it alive?,0,0,600
+70,Low,DOCTOR,OCCUPATION,Did humans create it?,5,1,200
+61,High,PINKIE,HUMAN PART,Does it make sounds?,6,0,500
+34,Low,GRANDPARENT,FAMILY,Does it make sounds?,6,1,600
+41,High,COKE,FOOD,Can you eat or drink it?,1,1,500
+26,Low,CONTAINER,ARTIFACTS,Can you wear it?,3,0,600
+53,High,EARTH,NATURE INANIMATE,Can you find it in the wild?,2,1,300
+17,High,ASPIRIN,ARTIFACTS,Can you eat or drink it?,1,1,200
+74,Low,ARTIST,OCCUPATION,Can you eat or drink it?,1,0,700
+45,High,KETCHUP,FOOD,Did humans create it?,5,1,300
+77,High,BALLERINA,OCCUPATION,Did humans create it?,5,1,700
+22,Low,COIN,ARTIFACTS,Did humans create it?,5,1,400
+5,High,MOUSE,ANIMAL,Does it float in water?,7,1,300

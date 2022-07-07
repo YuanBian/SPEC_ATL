@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+91,Low,STONE,NATURE INANIMATE,Is it alive?,0,0,4000
+87,Low,INSTITUTION,OTHER,Can you hold it?,4,0,4000
+24,High,SILK,ARTIFACTS,Can you wear it?,3,1,4000
+72,High,SENATOR,OCCUPATION,Is it alive?,0,1,4000
+75,Low,MUSICIAN,OCCUPATION,Does it make sounds?,6,1,4000
+27,Low,MAKEUP,ARTIFACTS,Can you wear it?,3,1,4000
+40,High,BEEF,FOOD,Does it make sounds?,6,0,4000
+51,Low,OFFSPRING,FAMILY,Did humans create it?,5,0,4000
+52,High,CAKE,FOOD,Can you eat or drink it?,1,1,4000
+63,Low,FLOWER,NATURE INANIMATE,Is it alive?,0,1,4000
+87,Low,INSTITUTION,OTHER,Did humans create it?,5,1,4000
+23,Low,WEAPON,ARTIFACTS,Does it make sounds?,6,0,4000
+20,High,REFRIGERATOR,ARTIFACTS,Does it float in water?,7,0,4000
+12,High,TURKEY,ANIMAL,Can you find it in the wild?,2,1,4000
+91,Low,STONE,NATURE INANIMATE,Does it float in water?,7,0,4000
+68,High,OXYGEN,NATURE INANIMATE,Can you wear it?,3,0,4000
+11,Low,MARSUPIAL,ANIMAL,Can you eat or drink it?,1,0,4000
+64,High,MAPLE,NATURE INANIMATE,Is it alive?,0,1,4000
+31,Low,PANTS,CLOTHES+ACCESS,Did humans create it?,5,1,4000
+59,Low,LIMB,HUMAN PART,Can you hold it?,4,1,4000
+80,High,HOTEL,OTHER,Can you wear it?,3,0,4000
+44,High,SALT,FOOD,Can you eat or drink it?,1,1,4000
+68,High,OXYGEN,NATURE INANIMATE,Does it make sounds?,6,0,4000
+55,Low,CHEESE,FOOD,Can you eat or drink it?,1,1,4000
+72,High,SENATOR,OCCUPATION,Can you eat or drink it?,1,0,4000
+39,Low,CRYSTAL,NATURE INANIMATE,Can you hold it?,4,1,4000
+95,Low,MEDIA,SPORT+LEISURE,Can you find it in the wild?,2,0,4000
+15,Low,FURNITURE,ARTIFACTS,Does it make sounds?,6,0,4000
+56,High,GINGER,FOOD,Can you hold it?,4,1,4000
+8,High,GORILLA,ANIMAL,Is it alive?,0,1,4000
+39,Low,CRYSTAL,NATURE INANIMATE,Can you wear it?,3,1,4000
+16,High,FORK,ARTIFACTS,Did humans create it?,5,1,4000
+23,Low,WEAPON,ARTIFACTS,Does it float in water?,7,0,4000
+40,High,BEEF,FOOD,Does it float in water?,7,0,4000
+4,High,CAT,ANIMAL,Does it make sounds?,6,1,4000
+39,Low,CRYSTAL,NATURE INANIMATE,Can you find it in the wild?,2,1,4000
+43,Low,BREAD,FOOD,Can you wear it?,3,0,4000
+20,High,REFRIGERATOR,ARTIFACTS,Can you find it in the wild?,2,0,4000
+72,High,SENATOR,OCCUPATION,Did humans create it?,5,1,4000
+83,Low,ROOM,OTHER,Can you find it in the wild?,2,0,4000
+64,High,MAPLE,NATURE INANIMATE,Did humans create it?,5,0,4000
+43,Low,BREAD,FOOD,Does it float in water?,7,1,4000
+4,High,CAT,ANIMAL,Can you hold it?,4,1,4000
+8,High,GORILLA,ANIMAL,Does it float in water?,7,0,4000
+95,Low,MEDIA,SPORT+LEISURE,Can you eat or drink it?,1,0,4000
+71,Low,SCIENTIST,OCCUPATION,Is it alive?,0,1,4000
+84,High,STROKE,OTHER,Can you hold it?,4,0,4000
+28,High,SNEAKERS,CLOTHES+ACCESS,Can you find it in the wild?,2,0,4000

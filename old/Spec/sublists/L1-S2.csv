@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Is it alive?,Can you eat or drink it?,Can you find it in the wild?,Can you wear it?,Can you hold it?,Did humans create it?,Does it make sounds?,Does it float in water?
+3,High,panda,ANIMAL,1,0,1,0,-1,0,1,1
+4,Low,pet,ANIMAL,1,0,0,0,1,-1,-1,1
+7,High,cobra,ANIMAL,1,0,1,0,1,0,1,0
+8,Low,ape,ANIMAL,1,0,1,0,0,0,1,0
+11,High,kangaroo,ANIMAL,1,0,1,0,0,0,-1,1
+12,Low,poultry,ANIMAL,1,1,1,0,1,0,1,1
+15,High,table,ARTIFACTS,0,0,0,0,1,1,0,0
+16,Low,utensil,ARTIFACTS,0,0,0,0,1,1,0,0
+19,High,ruby,ARTIFACTS,0,0,0,1,1,-1,0,0
+20,Low,appliance,ARTIFACTS,0,0,0,0,-1,1,1,0
+23,High,gun,ARTIFACTS,0,0,0,-1,1,1,0,0
+24,Low,fabric,ARTIFACTS,0,0,0,1,1,-1,0,1
+27,High,lipstick,ARTIFACTS,0,0,0,1,1,1,0,0
+28,Low,shoes,CLOTHES+ACCESS,0,0,0,1,1,1,0,0
+31,High,jeans,CLOTHES+ACCESS,0,0,0,1,1,1,0,0
+32,Low,parent,FAMILY,1,0,0,0,0,0,1,-1
+51,High,daughter,FAMILY,1,0,0,0,-1,0,1,-1
+35,High,cappuccino,FOOD,0,1,0,0,-1,1,0,0
+36,Low,fruit,FOOD,0,1,1,0,1,0,0,1
+40,Low,meat,FOOD,0,1,1,0,1,0,0,0
+43,High,bagel,FOOD,0,1,0,0,1,1,0,1
+44,Low,seasoning,FOOD,0,1,-1,0,1,-1,0,-1
+47,High,wheat,FOOD,-1,1,-1,0,-1,-1,0,1
+48,Low,pastry,FOOD,0,1,0,0,1,1,0,1
+52,Low,dessert,FOOD,0,1,0,0,1,1,0,-1
+55,High,cheddar,FOOD,0,1,0,0,1,1,0,0
+56,Low,spice,FOOD,0,1,-1,0,1,-1,0,1
+59,High,arm,HUMAN PART,0,0,-1,0,1,0,0,1
+60,Low,bone,HUMAN PART,0,0,-1,0,1,0,0,0
+39,High,jade,NATURE INANIMATE,0,0,-1,1,1,0,0,0
+63,High,rose,NATURE INANIMATE,1,0,1,1,1,0,0,1
+64,Low,tree,NATURE INANIMATE,1,0,1,0,0,0,-1,1
+67,High,water,NATURE INANIMATE,0,1,1,0,-1,0,-1,-1
+68,Low,element,NATURE INANIMATE,0,0,1,0,0,0,0,-1
+91,High,marble,NATURE INANIMATE,0,0,-1,-1,1,-1,0,0
+71,High,chemist,OCCUPATION,1,0,0,0,0,1,1,1
+72,Low,politician,OCCUPATION,1,0,0,0,0,1,1,1
+75,High,drummer,OCCUPATION,1,0,0,0,0,1,1,1
+76,Low,royalty,OCCUPATION,1,0,0,0,0,1,1,1
+79,High,algebra,OTHER,0,0,0,0,0,-1,0,-1
+80,Low,building,OTHER,0,0,0,0,0,1,0,0
+83,High,kitchen,OTHER,0,0,0,0,0,1,0,-1
+84,Low,disease,OTHER,0,0,1,0,0,0,0,-1
+87,High,university,OTHER,0,0,0,0,0,1,0,-1
+88,Low,genre,OTHER,0,0,0,0,0,1,0,-1
+92,Low,sport,SPORT+LEISURE,0,0,0,0,0,1,0,-1
+95,High,newspaper,SPORT+LEISURE,0,0,0,0,1,1,0,1
+96,Low,drum,SPORT+LEISURE,0,0,0,-1,1,1,0,1

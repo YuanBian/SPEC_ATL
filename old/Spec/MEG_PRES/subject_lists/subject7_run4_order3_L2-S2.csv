@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+75,Low,MUSICIAN,OCCUPATION,Does it make sounds?,6,1,700
+28,High,SNEAKERS,CLOTHES+ACCESS,Can you wear it?,3,1,700
+56,High,GINGER,FOOD,Can you find it in the wild?,2,1,300
+75,Low,MUSICIAN,OCCUPATION,Can you hold it?,4,0,200
+63,Low,FLOWER,NATURE INANIMATE,Can you wear it?,3,1,600
+20,High,REFRIGERATOR,ARTIFACTS,Can you wear it?,3,0,300
+47,Low,CROP,FOOD,Does it make sounds?,6,0,600
+80,High,HOTEL,OTHER,Is it alive?,0,0,600
+23,Low,WEAPON,ARTIFACTS,Did humans create it?,5,1,200
+92,High,BASEBALL,SPORT+LEISURE,Can you hold it?,4,0,700
+80,High,HOTEL,OTHER,Does it make sounds?,6,0,200
+31,Low,PANTS,CLOTHES+ACCESS,Can you wear it?,3,1,700
+51,Low,OFFSPRING,FAMILY,Is it alive?,0,1,300
+72,High,SENATOR,OCCUPATION,Does it float in water?,7,1,300
+48,High,DONUT,FOOD,Does it make sounds?,6,0,400
+3,Low,BEAR,ANIMAL,Is it alive?,0,1,300
+72,High,SENATOR,OCCUPATION,Did humans create it?,5,1,300
+19,Low,JEWEL,ARTIFACTS,Can you eat or drink it?,1,0,600
+87,Low,INSTITUTION,OTHER,Can you hold it?,4,0,300
+72,High,SENATOR,OCCUPATION,Can you hold it?,4,0,300
+35,Low,COFFEE,FOOD,Can you eat or drink it?,1,1,500
+28,High,SNEAKERS,CLOTHES+ACCESS,Does it float in water?,7,1,500
+28,High,SNEAKERS,CLOTHES+ACCESS,Did humans create it?,5,1,600
+55,Low,CHEESE,FOOD,Does it float in water?,7,0,400
+52,High,CAKE,FOOD,Is it alive?,0,0,400
+71,Low,SCIENTIST,OCCUPATION,Can you find it in the wild?,2,0,200
+11,Low,MARSUPIAL,ANIMAL,Is it alive?,0,1,600
+3,Low,BEAR,ANIMAL,Can you eat or drink it?,1,0,500
+68,High,OXYGEN,NATURE INANIMATE,Can you find it in the wild?,2,1,700
+51,Low,OFFSPRING,FAMILY,Did humans create it?,5,0,400
+3,Low,BEAR,ANIMAL,Does it float in water?,7,1,400
+44,High,SALT,FOOD,Can you eat or drink it?,1,1,400
+43,Low,BREAD,FOOD,Can you wear it?,3,0,500
+20,High,REFRIGERATOR,ARTIFACTS,Can you eat or drink it?,1,0,500
+83,Low,ROOM,OTHER,Does it make sounds?,6,0,200
+80,High,HOTEL,OTHER,Can you hold it?,4,0,500
+7,Low,SNAKE,ANIMAL,Can you find it in the wild?,2,1,500
+88,High,COMEDY,OTHER,Can you find it in the wild?,2,0,700
+47,Low,CROP,FOOD,Does it float in water?,7,1,500
+72,High,SENATOR,OCCUPATION,Does it make sounds?,6,1,200
+55,Low,CHEESE,FOOD,Can you hold it?,4,1,600
+96,High,BONGO,SPORT+LEISURE,Can you eat or drink it?,1,0,400
+12,High,TURKEY,ANIMAL,Does it float in water?,7,1,700
+55,Low,CHEESE,FOOD,Can you find it in the wild?,2,0,600
+72,High,SENATOR,OCCUPATION,Is it alive?,0,1,700
+64,High,MAPLE,NATURE INANIMATE,Can you wear it?,3,0,200
+3,Low,BEAR,ANIMAL,Did humans create it?,5,0,200
+96,High,BONGO,SPORT+LEISURE,Did humans create it?,5,1,400

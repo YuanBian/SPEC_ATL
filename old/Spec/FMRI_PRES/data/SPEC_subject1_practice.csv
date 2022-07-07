@@ -1,0 +1,5 @@
+TrialOnset,Noun,Question,Answer,ISI,Accuracy,RT,Response
+0,professor,Is it alive?,1,4000,1,2.90728339715861,1
+13,hair,Does it make sounds?,0,4000,,0,
+26,faucet,Can you find it in the wild?,0,4000,0,1.31507146311924,1
+39,oatmeal,Can you eat or drink it?,1,4000,1,1.25007553119212,1

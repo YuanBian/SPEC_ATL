@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+79,Low,MATH,OTHER,Can you wear it?,3,0,300
+63,Low,FLOWER,NATURE INANIMATE,Does it float in water?,7,1,300
+92,High,BASEBALL,SPORT+LEISURE,Is it alive?,0,0,600
+67,Low,LIQUID,NATURE INANIMATE,Can you find it in the wild?,2,1,700
+72,High,SENATOR,OCCUPATION,Is it alive?,0,1,200
+55,Low,CHEESE,FOOD,Can you eat or drink it?,1,1,400
+56,High,GINGER,FOOD,Does it make sounds?,6,0,200
+27,Low,MAKEUP,ARTIFACTS,Can you wear it?,3,1,500
+36,High,APPLE,FOOD,Can you find it in the wild?,2,1,700
+83,Low,ROOM,OTHER,Is it alive?,0,0,500
+76,High,QUEEN,OCCUPATION,Did humans create it?,5,1,200
+3,Low,BEAR,ANIMAL,Does it make sounds?,6,1,400
+96,High,BONGO,SPORT+LEISURE,Can you eat or drink it?,1,0,500
+67,Low,LIQUID,NATURE INANIMATE,Did humans create it?,5,0,500
+31,Low,PANTS,CLOTHES+ACCESS,Can you wear it?,3,1,300
+84,High,STROKE,OTHER,Does it make sounds?,6,0,600
+60,High,FEMUR,HUMAN PART,Can you hold it?,4,1,300
+56,High,GINGER,FOOD,Can you find it in the wild?,2,1,200
+71,Low,SCIENTIST,OCCUPATION,Does it float in water?,7,1,400
+44,High,SALT,FOOD,Can you hold it?,4,1,700
+19,Low,JEWEL,ARTIFACTS,Is it alive?,0,0,500
+71,Low,SCIENTIST,OCCUPATION,Can you hold it?,4,0,600
+56,High,GINGER,FOOD,Can you hold it?,4,1,700
+64,High,MAPLE,NATURE INANIMATE,Did humans create it?,5,0,300
+55,Low,CHEESE,FOOD,Does it float in water?,7,0,400
+91,Low,STONE,NATURE INANIMATE,Is it alive?,0,0,600
+64,High,MAPLE,NATURE INANIMATE,Can you wear it?,3,0,600
+28,High,SNEAKERS,CLOTHES+ACCESS,Can you wear it?,3,1,400
+35,Low,COFFEE,FOOD,Can you eat or drink it?,1,1,400
+20,High,REFRIGERATOR,ARTIFACTS,Does it float in water?,7,0,600
+72,High,SENATOR,OCCUPATION,Can you eat or drink it?,1,0,200
+52,High,CAKE,FOOD,Did humans create it?,5,1,200
+47,Low,CROP,FOOD,Can you eat or drink it?,1,1,300
+71,Low,SCIENTIST,OCCUPATION,Did humans create it?,5,1,700
+35,Low,COFFEE,FOOD,Does it make sounds?,6,0,400
+76,High,QUEEN,OCCUPATION,Can you wear it?,3,0,500
+56,High,GINGER,FOOD,Is it alive?,0,0,700
+19,Low,JEWEL,ARTIFACTS,Can you find it in the wild?,2,0,300
+3,Low,BEAR,ANIMAL,Can you find it in the wild?,2,1,600
+64,High,MAPLE,NATURE INANIMATE,Can you find it in the wild?,2,1,700
+87,Low,INSTITUTION,OTHER,Can you hold it?,4,0,700
+8,High,GORILLA,ANIMAL,Does it float in water?,7,0,200
+40,High,BEEF,FOOD,Can you eat or drink it?,1,1,500
+60,High,FEMUR,HUMAN PART,Does it float in water?,7,0,200
+27,Low,MAKEUP,ARTIFACTS,Does it make sounds?,6,0,300
+75,Low,MUSICIAN,OCCUPATION,Can you hold it?,4,0,400
+75,Low,MUSICIAN,OCCUPATION,Did humans create it?,5,1,600
+72,High,SENATOR,OCCUPATION,Does it make sounds?,6,1,500

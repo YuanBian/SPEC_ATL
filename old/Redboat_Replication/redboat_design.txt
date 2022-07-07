@@ -1,0 +1,70 @@
+
+Design: a 4 condition design, with the following conditions (let’s use these names in the analyses):
+	COMP_2w:	Adj+N
+	LIST_2w:		N+N
+	COMP_1w:	ConsStr+N
+	LIST_1w:		ConsStr+N
+
+The materials used in the four conditions are as follows:
+
+LINGUISTIC materials:
+
+* for the second noun: 25 one-syllable nouns from B&P (disc, plane, bag, lock, cane, hand, key, shoe, bone, square, bell, boat, bow, car, cross, cup, flag, fork, heart, lamp, leaf, note, star, tree, house)
+* for the Adj: 6 color adjectives (red, blue, pink, black, green, brown)
+* for the first noun in the LIST_2w condition: a subset of 6 nouns from the set of 25 (cup, boat, lamp, plane,
+cross, house)
+* for the ConsStr: a set of 6 strings (xkq, qxsw, mtpv, rjdnw, wvcnz, zbxlv)
+
+From these ingredients, we can create for each condition, the following number of unique sequences:
+
+	COMP_2w:		6*25 = 150
+	LIST_2w:			6*24 = 144 (to avoid cup cup, boat boat, etc.)
+	COMP/LIST_1w:	6*25 = 160
+
+For each participant, we’ll sample a semi-random subset of 100 trials for each condition. Let’s use each of the 25 nouns for the 2nd position four times in each condition. Sound good? 
+
+PICTURE materials for the matching task:
+
+We have 25 object pictures * 6 colors * 3 orientations = 450 unique images (we might as well use the different orientations; why not..).
+
+For selecting the pictures to pair up with the 400 trials, let’s use the following constraints:
+
+COMP_2w condition: for each set of trials with a particular noun in the 2nd position (e.g., the four Adj+boat trials), have two trials match the verbal description (choosing the orientation at random), and two trials mismatch the verbal description. For the mismatches, choose two of the three possibilities:
+~ mismatching the object noun (e.g., if the verbal description is “red boat”, the object will be a red disc or a red shoe, etc.)
+~ mismatching the adj only (e.g., if the verbal description is “red boat”, the object will be a blue boat or a green boat, etc.)
+~ mismatching both the obj and the adj (e.g., if the verbal description is “red boat”, the object will be a blue disc or a green shoe, etc.)
+(for all of these, choose the orientation at random, as for the match trials)
+
+Across the full set of 100 trials, we will therefore have 50 matching trials, and 50 mismatching trials. For the latter, let’s have 16 object-mismatch trials, 16 adj-mismatch trials, and 18 obj+adj-mismatch trials.
+
+LIST_2w condition: for each set of trials with a particular noun in the 2nd position (e.g., the four N+boat trials), have one trial where the picture matches the first noun, one trial where the picture matches the second noun, and two trials where the picture does not match either of the two nouns.
+
+Across the full set of 100 trials, we will therefore have 50 matching trials, and 50 mismatching trials.
+
+COMP/LIST_1w condition: for each set of trials with a particular noun in the 2nd position (e.g., the four ConsStr+boat trials), have two trial where the picture matches the noun and two trials where the picture does not match the noun.
+
+Across the full set of 100 trials for each of these two conditions, we will therefore have 50 matching trials, and 50 mismatching trials.
+
+Procedure:
+
+So, we have 400 trials total, across the four conditions.
+
+Each trial will be structured as in the B&P paper, i.e.:
+
+fixation (duration 300ms)
+blank screen (300ms)
+word1 (300ms)
+blank screen (300ms)
+word2 (300ms)
+blank screen (300ms)
+target shape (max 2,200ms; if the participant responds earlier, as they will in most cases, the screen should turn to a blank screen until the end of the trial, so all trials will be the same duration i.e., 4s)
+
+After each trial, an additional ISI blank screen will be presented for one of the 5 durations (200ms, 300ms, 400ms, 500ms, 600ms).
+
+The full set of 400 trials will be divided into 4 runs, with each run consisting of 100 trials (25 trials for each of the four conditions; in each condition, there should be 12 or 13 match trials; across the 100 trials in each run, there should be 50 match and 50 mismatch trials).
+
+To keep the run duration constant, let’s have 20 trials followed by a 200ms ISI, 20 trials - by a 300ms ISI, 20 trials - by a 400ms ISI, 20 trials - by a 500ms ISI, and the remaining 20 - by a 600ms ISI.
+
+Before the start of each run, the instruction for the task will appear on the screen (for max 600sec; in case the participant has questions to ask the experimenter) until the participant press a button to start. At the end of each run, participants have the option of resting for 1 minute. They can skip the rest by pressing any key. Otherwise, the experiment will continue after 1 minute.
+
+Run Duration: 444 sec

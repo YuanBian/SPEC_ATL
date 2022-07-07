@@ -1,0 +1,6 @@
+TrialOnset,Word_1st,Word_2nd,Condition,Match,Mismatch_Type,Image,Accuracy,RT,Dur,Response
+0,,,,,,,,,12.0342408639845,
+12,,,,,,,,0.898320426931605,4.02641779906116,match
+16,,,,,,,,0.937220786930993,4.01509148697369,match
+20,,,,,,,,0.81678443797864,4.01852276502177,mismatch
+,,,,,,,,,,

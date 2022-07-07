@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+23,Low,WEAPON,ARTIFACTS,Did humans create it?,5,1,200
+60,High,FEMUR,HUMAN PART,Does it make sounds?,6,0,500
+35,Low,COFFEE,FOOD,Does it float in water?,7,0,200
+59,Low,LIMB,HUMAN PART,Does it make sounds?,6,0,400
+47,Low,CROP,FOOD,Does it float in water?,7,1,300
+96,High,BONGO,SPORT+LEISURE,Did humans create it?,5,1,300
+20,High,REFRIGERATOR,ARTIFACTS,Can you eat or drink it?,1,0,700
+40,High,BEEF,FOOD,Does it float in water?,7,0,300
+67,Low,LIQUID,NATURE INANIMATE,Is it alive?,0,0,600
+72,High,SENATOR,OCCUPATION,Did humans create it?,5,1,500
+43,Low,BREAD,FOOD,Can you hold it?,4,1,400
+11,Low,MARSUPIAL,ANIMAL,Can you find it in the wild?,2,1,200
+95,Low,MEDIA,SPORT+LEISURE,Does it make sounds?,6,0,300
+80,High,HOTEL,OTHER,Can you find it in the wild?,2,0,400
+44,High,SALT,FOOD,Can you wear it?,3,0,500
+91,Low,STONE,NATURE INANIMATE,Can you find it in the wild?,2,1,500
+27,Low,MAKEUP,ARTIFACTS,Can you eat or drink it?,1,0,700
+64,High,MAPLE,NATURE INANIMATE,Can you hold it?,4,0,400
+28,High,SNEAKERS,CLOTHES+ACCESS,Can you wear it?,3,1,200
+79,Low,MATH,OTHER,Can you hold it?,4,0,200
+48,High,DONUT,FOOD,Can you eat or drink it?,1,1,300
+88,High,COMEDY,OTHER,Does it make sounds?,6,0,500
+71,Low,SCIENTIST,OCCUPATION,Can you wear it?,3,0,200
+12,High,TURKEY,ANIMAL,Does it float in water?,7,1,600
+31,Low,PANTS,CLOTHES+ACCESS,Did humans create it?,5,1,300
+76,High,QUEEN,OCCUPATION,Does it float in water?,7,1,500
+83,Low,ROOM,OTHER,Can you hold it?,4,0,700
+84,High,STROKE,OTHER,Can you wear it?,3,0,600
+36,High,APPLE,FOOD,Can you hold it?,4,1,700
+63,Low,FLOWER,NATURE INANIMATE,Can you wear it?,3,1,600
+39,Low,CRYSTAL,NATURE INANIMATE,Can you wear it?,3,1,700
+8,High,GORILLA,ANIMAL,Does it make sounds?,6,1,400
+15,Low,FURNITURE,ARTIFACTS,Does it make sounds?,6,0,600
+68,High,OXYGEN,NATURE INANIMATE,Can you find it in the wild?,2,1,600
+55,Low,CHEESE,FOOD,Can you eat or drink it?,1,1,700
+7,Low,SNAKE,ANIMAL,Does it float in water?,7,0,300
+51,Low,OFFSPRING,FAMILY,Can you eat or drink it?,1,0,200
+92,High,BASEBALL,SPORT+LEISURE,Is it alive?,0,0,700
+56,High,GINGER,FOOD,Can you eat or drink it?,1,1,600
+3,Low,BEAR,ANIMAL,Is it alive?,0,1,400
+75,Low,MUSICIAN,OCCUPATION,Is it alive?,0,1,300
+24,High,SILK,ARTIFACTS,Is it alive?,0,0,600
+52,High,CAKE,FOOD,Is it alive?,0,0,400
+87,Low,INSTITUTION,OTHER,Did humans create it?,5,1,700
+4,High,CAT,ANIMAL,Can you hold it?,4,1,200
+32,High,MOTHER,FAMILY,Can you find it in the wild?,2,0,400
+19,Low,JEWEL,ARTIFACTS,Can you find it in the wild?,2,0,500
+16,High,FORK,ARTIFACTS,Did humans create it?,5,1,500

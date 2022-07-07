@@ -1,0 +1,6 @@
+TrialOnset,PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI,Accuracy,RT,Response
+4.01987284600182,73,High,COMEDIAN,OCCUPATION,Does it float in water?,7,1,4000,0,0,
+17.0198728460018,29,High,PURSE,CLOTHES+ACCESS,Is it alive?,0,0,4000,0,0,
+30.0198728460018,21,High,RING,ARTIFACTS,Can you hold it?,4,1,4000,0,0,
+43.0198728460018,54,Low,WINE,FOOD,Can you wear it?,3,0,4000,0,0,
+56.0198728460018,42,Low,HERB,FOOD,Is it alive?,0,0,4000,0,0,

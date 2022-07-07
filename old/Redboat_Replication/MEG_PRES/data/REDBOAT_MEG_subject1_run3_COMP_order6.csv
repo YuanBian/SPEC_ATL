@@ -1,0 +1,6 @@
+TrialOnset,Word_1st,Word_2nd,Condition,Match,Mismatch_Type,Image,ISI,Accuracy,RT,Dur,Response
+109.740017472068,Rjdnw,Leaf,COMP_1W,mismatch,1,GreenLock_1.jpg,500,0,0,4.51330292900093,
+114.240017472068,Mtpv,Bow,COMP_1W,mismatch,3,GreenHeart_3.jpg,400,0,0,4.40973054803908,
+118.640017471975,Green,Heart,COMP_2W,mismatch,2,GreenHeart_1.jpg,600,0,0,4.61589398398064,
+123.240017472068,Red,Square,COMP_2W,match,0,RedSquare_1.jpg,600,0,0,4.61511041689664,
+127.840017472161,Xkq,Hand,COMP_1W,match,0,PinkHand_2.jpg,300,0,0,4.31539205391891,

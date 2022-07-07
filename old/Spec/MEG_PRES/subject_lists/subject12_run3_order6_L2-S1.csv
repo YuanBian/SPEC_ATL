@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+13,Low,AMPHIBIAN,ANIMAL,Does it float in water?,7,0,500
+37,Low,VEGETABLE,FOOD,Did humans create it?,5,0,500
+30,High,BERET,CLOTHES+ACCESS,Did humans create it?,5,1,300
+10,High,GECKO,ANIMAL,Can you find it in the wild?,2,1,600
+5,Low,MAMMAL,ANIMAL,Does it float in water?,7,1,700
+69,Low,METAL,NATURE INANIMATE,Can you find it in the wild?,2,1,200
+94,High,TANGO,SPORT+LEISURE,Can you hold it?,4,0,600
+57,Low,BEVERAGE,FOOD,Is it alive?,0,0,400
+34,High,GRANDFATHER,FAMILY,Does it make sounds?,6,1,600
+5,Low,MAMMAL,ANIMAL,Can you find it in the wild?,2,1,200
+45,Low,CONDIMENT,FOOD,Can you eat or drink it?,1,1,200
+5,Low,MAMMAL,ANIMAL,Can you eat or drink it?,1,0,500
+50,High,VODKA,FOOD,Does it make sounds?,6,0,700
+38,High,SPAGHETTI,FOOD,Can you eat or drink it?,1,1,300
+9,Low,BIRD,ANIMAL,Can you wear it?,3,0,300
+50,High,VODKA,FOOD,Can you wear it?,3,0,200
+89,Low,SEASON,OTHER,Did humans create it?,5,0,700
+70,High,SURGEON,OCCUPATION,Is it alive?,0,1,500
+49,Low,GADGET,ARTIFACTS,Can you hold it?,4,1,600
+49,Low,GADGET,ARTIFACTS,Does it make sounds?,6,1,300
+74,High,IMPRESSIONIST,OCCUPATION,Can you hold it?,4,0,400
+34,High,GRANDFATHER,FAMILY,Is it alive?,0,1,300
+78,High,ANGER,OTHER,Can you eat or drink it?,1,0,600
+13,Low,AMPHIBIAN,ANIMAL,Can you find it in the wild?,2,1,500
+38,High,SPAGHETTI,FOOD,Is it alive?,0,0,400
+41,Low,SODA,FOOD,Did humans create it?,5,1,600
+41,Low,SODA,FOOD,Can you wear it?,3,0,200
+81,Low,CRIME,OTHER,Is it alive?,0,0,300
+14,High,TARANTULA,ANIMAL,Can you find it in the wild?,2,1,200
+2,High,BEE,ANIMAL,Does it float in water?,7,1,200
+73,Low,ENTERTAINER,OCCUPATION,Does it make sounds?,6,1,500
+74,High,IMPRESSIONIST,OCCUPATION,Did humans create it?,5,1,500
+25,Low,TOOL,ARTIFACTS,Can you eat or drink it?,1,0,400
+58,High,BRAIN,HUMAN PART,Can you eat or drink it?,1,0,400
+74,High,IMPRESSIONIST,OCCUPATION,Does it float in water?,7,1,600
+85,Low,CURRENCY,OTHER,Can you hold it?,4,1,500
+41,Low,SODA,FOOD,Is it alive?,0,0,700
+78,High,ANGER,OTHER,Can you wear it?,3,0,700
+26,High,BOWL,ARTIFACTS,Can you hold it?,4,1,300
+41,Low,SODA,FOOD,Does it make sounds?,6,0,400
+94,High,TANGO,SPORT+LEISURE,Can you find it in the wild?,2,0,300
+9,Low,BIRD,ANIMAL,Can you hold it?,4,1,700
+30,High,BERET,CLOTHES+ACCESS,Does it float in water?,7,1,700
+38,High,SPAGHETTI,FOOD,Does it make sounds?,6,0,600
+17,Low,MEDICINE,ARTIFACTS,Does it float in water?,7,0,400
+69,Low,METAL,NATURE INANIMATE,Can you wear it?,3,1,200
+14,High,TARANTULA,ANIMAL,Did humans create it?,5,0,700
+26,High,BOWL,ARTIFACTS,Can you wear it?,3,0,400

@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+64,Low,TREE,NATURE INANIMATE,Did humans create it?,5,0,500
+12,Low,POULTRY,ANIMAL,Can you eat or drink it?,1,1,400
+44,Low,SEASONING,FOOD,Does it make sounds?,6,0,600
+31,High,JEANS,CLOTHES+ACCESS,Does it make sounds?,6,0,500
+95,High,NEWSPAPER,SPORT+LEISURE,Can you find it in the wild?,2,0,200
+52,Low,DESSERT,FOOD,Can you eat or drink it?,1,1,700
+80,Low,BUILDING,OTHER,Did humans create it?,5,1,300
+67,High,WATER,NATURE INANIMATE,Can you eat or drink it?,1,1,300
+16,Low,UTENSIL,ARTIFACTS,Can you wear it?,3,0,500
+11,High,KANGAROO,ANIMAL,Is it alive?,0,1,700
+36,Low,FRUIT,FOOD,Can you wear it?,3,0,400
+8,Low,APE,ANIMAL,Can you find it in the wild?,2,1,400
+76,Low,ROYALTY,OCCUPATION,Does it make sounds?,6,1,400
+19,High,RUBY,ARTIFACTS,Can you hold it?,4,1,700
+12,Low,POULTRY,ANIMAL,Can you wear it?,3,0,500
+16,Low,UTENSIL,ARTIFACTS,Can you eat or drink it?,1,0,400
+23,High,GUN,ARTIFACTS,Did humans create it?,5,1,300
+87,High,UNIVERSITY,OTHER,Can you hold it?,4,0,400
+20,Low,APPLIANCE,ARTIFACTS,Can you find it in the wild?,2,0,600
+7,High,COBRA,ANIMAL,Did humans create it?,5,0,700
+12,Low,POULTRY,ANIMAL,Is it alive?,0,1,200
+43,High,BAGEL,FOOD,Can you wear it?,3,0,200
+95,High,NEWSPAPER,SPORT+LEISURE,Can you eat or drink it?,1,0,300
+83,High,KITCHEN,OTHER,Can you wear it?,3,0,700
+32,Low,PARENT,FAMILY,Does it make sounds?,6,1,500
+20,Low,APPLIANCE,ARTIFACTS,Does it float in water?,7,0,200
+95,High,NEWSPAPER,SPORT+LEISURE,Does it float in water?,7,1,500
+63,High,ROSE,NATURE INANIMATE,Does it make sounds?,6,0,200
+43,High,BAGEL,FOOD,Can you eat or drink it?,1,1,400
+64,Low,TREE,NATURE INANIMATE,Can you hold it?,4,0,400
+39,High,JADE,NATURE INANIMATE,Can you wear it?,3,1,300
+11,High,KANGAROO,ANIMAL,Did humans create it?,5,0,300
+23,High,GUN,ARTIFACTS,Is it alive?,0,0,600
+8,Low,APE,ANIMAL,Is it alive?,0,1,600
+11,High,KANGAROO,ANIMAL,Does it float in water?,7,1,200
+7,High,COBRA,ANIMAL,Can you find it in the wild?,2,1,200
+23,High,GUN,ARTIFACTS,Does it make sounds?,6,0,500
+4,Low,PET,ANIMAL,Can you hold it?,4,1,600
+76,Low,ROYALTY,OCCUPATION,Does it float in water?,7,1,600
+4,Low,PET,ANIMAL,Can you find it in the wild?,2,0,300
+75,High,DRUMMER,OCCUPATION,Does it float in water?,7,1,700
+92,Low,SPORT,SPORT+LEISURE,Can you hold it?,4,0,600
+83,High,KITCHEN,OTHER,Is it alive?,0,0,700
+63,High,ROSE,NATURE INANIMATE,Can you find it in the wild?,2,1,500
+4,Low,PET,ANIMAL,Is it alive?,0,1,300
+63,High,ROSE,NATURE INANIMATE,Can you hold it?,4,1,700
+16,Low,UTENSIL,ARTIFACTS,Does it float in water?,7,0,600
+48,Low,PASTRY,FOOD,Did humans create it?,5,1,200

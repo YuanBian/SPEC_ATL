@@ -1,0 +1,5 @@
+TrialOnset,Noun,Question,Answer,ISI,Accuracy,RT,Response
+0,PROFESSOR,Is it alive?,1,0.3,1,1.46692120199441,1
+5.30000000000291,HAIR,Does it make sounds?,0,0.3,,0,
+10.6000000000058,FAUCET,Can you find it in the wild?,0,0.3,1,0.481427977996645,0
+15.9000000000087,OATMEAL,Can you eat or drink it?,1,0.3,1,1.10943805299758,1

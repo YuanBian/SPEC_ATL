@@ -1,0 +1,699 @@
+# spec 1 LowHigh
+dog
+? bulldog? NA
+# spec 1 HighLow
+bulldog
+? dog? NA
+
+# spec 2 LowHigh
+insect
+? bee? NA
+# spec 2 HighLow
+bee
+? insect? NA
+
+# spec 3 LowHigh
+bear
+? panda? NA
+# spec 3 HighLow
+panda
+? bear? NA
+
+# spec 4 LowHigh
+pet
+? cat? NA
+# spec 4 HighLow
+cat
+? pet? NA
+
+# spec 5 LowHigh
+mammal
+? mouse? NA
+# spec 5 HighLow
+mouse
+? mammal? NA
+
+# spec 6 LowHigh
+fish
+? salmon? NA
+# spec 6 HighLow
+salmon
+? fish? NA
+
+# spec 7 LowHigh
+snake
+? cobra? NA
+# spec 7 HighLow
+cobra
+? snake? NA
+
+# spec 8 LowHigh
+ape
+? gorilla? NA
+# spec 8 HighLow
+gorilla
+? ape? NA
+
+# spec 9 LowHigh
+bird
+? sparrow? NA
+# spec 9 HighLow
+sparrow
+? bird? NA
+
+# spec 10 LowHigh
+lizard
+? gecko? NA
+# spec 10 HighLow
+gecko
+? lizard? NA
+
+# spec 11 LowHigh
+marsupial
+? kangaroo? NA
+# spec 11 HighLow
+kangaroo
+? marsupial? NA
+
+# spec 12 LowHigh
+poultry
+? turkey? NA
+# spec 12 HighLow
+turkey
+? poultry? NA
+
+# spec 13 LowHigh
+amphibian
+? frog? NA
+# spec 13 HighLow
+frog
+? amphibian? NA
+
+# spec 14 LowHigh
+spider
+? tarantula? NA
+# spec 14 HighLow
+tarantula
+? spider? NA
+
+# spec 15 LowHigh
+furniture
+? table? NA
+# spec 15 HighLow
+table
+? furniture? NA
+
+# spec 16 LowHigh
+utensil
+? fork? NA
+# spec 16 HighLow
+fork
+? utensil? NA
+
+# spec 17 LowHigh
+medicine
+? aspirin? NA
+# spec 17 HighLow
+aspirin
+? medicine? NA
+
+# spec 18 LowHigh
+candy
+? lollipop? NA
+# spec 18 HighLow
+lollipop
+? candy? NA
+
+# spec 19 LowHigh
+jewel
+? ruby? NA
+# spec 19 HighLow
+ruby
+? jewel? NA
+
+# spec 20 LowHigh
+appliance
+? refrigerator? NA
+# spec 20 HighLow
+refrigerator
+? appliance? NA
+
+# spec 21 LowHigh
+jewelry
+? ring? NA
+# spec 21 HighLow
+ring
+? jewelry? NA
+
+# spec 22 LowHigh
+coin
+? penny? NA
+# spec 22 HighLow
+penny
+? coin? NA
+
+# spec 23 LowHigh
+weapon
+? gun? NA
+# spec 23 HighLow
+gun
+? weapon? NA
+
+# spec 24 LowHigh
+fabric
+? silk? NA
+# spec 24 HighLow
+silk
+? fabric? NA
+
+# spec 25 LowHigh
+tool
+? axe? NA
+# spec 25 HighLow
+axe
+? tool? NA
+
+# spec 26 LowHigh
+container
+? bowl? NA
+# spec 26 HighLow
+bowl
+? container? NA
+
+# spec 27 LowHigh
+makeup
+? lipstick? NA
+# spec 27 HighLow
+lipstick
+? makeup? NA
+
+# spec 28 LowHigh
+shoes
+? sneakers? NA
+# spec 28 HighLow
+sneakers
+? shoes? NA
+
+# spec 29 LowHigh
+bag
+? purse? NA
+# spec 29 HighLow
+purse
+? bag? NA
+
+# spec 30 LowHigh
+hat
+? beret? NA
+# spec 30 HighLow
+beret
+? hat? NA
+
+# spec 31 LowHigh
+pants
+? jeans? NA
+# spec 31 HighLow
+jeans
+? pants? NA
+
+# spec 32 LowHigh
+parent
+? mother? NA
+# spec 32 HighLow
+mother
+? parent? NA
+
+# spec 33 LowHigh
+relative
+? uncle? NA
+# spec 33 HighLow
+uncle
+? relative? NA
+
+# spec 34 LowHigh
+grandparent
+? grandfather? NA
+# spec 34 HighLow
+grandfather
+? grandparent? NA
+
+# spec 35 LowHigh
+coffee
+? cappuccino? NA
+# spec 35 HighLow
+cappuccino
+? coffee? NA
+
+# spec 36 LowHigh
+fruit
+? apple? NA
+# spec 36 HighLow
+apple
+? fruit? NA
+
+# spec 37 LowHigh
+vegetable
+? broccoli? NA
+# spec 37 HighLow
+broccoli
+? vegetable? NA
+
+# spec 38 LowHigh
+pasta
+? spaghetti? NA
+# spec 38 HighLow
+spaghetti
+? pasta? NA
+
+# spec 39 LowHigh
+crystal
+? jade? NA
+# spec 39 HighLow
+jade
+? crystal? NA
+
+# spec 40 LowHigh
+meat
+? beef? NA
+# spec 40 HighLow
+beef
+? meat? NA
+
+# spec 41 LowHigh
+soda
+? coke? NA
+# spec 41 HighLow
+coke
+? soda? NA
+
+# spec 42 LowHigh
+herb
+? parsley? NA
+# spec 42 HighLow
+parsley
+? herb? NA
+
+# spec 43 LowHigh
+bread
+? bagel? NA
+# spec 43 HighLow
+bagel
+? bread? NA
+
+# spec 44 LowHigh
+seasoning
+? salt? NA
+# spec 44 HighLow
+salt
+? seasoning? NA
+
+# spec 45 LowHigh
+condiment
+? ketchup? NA
+# spec 45 HighLow
+ketchup
+? condiment? NA
+
+# spec 46 LowHigh
+sauce
+? gravy? NA
+# spec 46 HighLow
+gravy
+? sauce? NA
+
+# spec 47 LowHigh
+crop
+? wheat? NA
+# spec 47 HighLow
+wheat
+? crop? NA
+
+# spec 48 LowHigh
+pastry
+? donut? NA
+# spec 48 HighLow
+donut
+? pastry? NA
+
+# spec 49 LowHigh
+gadget
+? phone? NA
+# spec 49 HighLow
+phone
+? gadget? NA
+
+# spec 50 LowHigh
+alcohol
+? vodka? NA
+# spec 50 HighLow
+vodka
+? alcohol? NA
+
+# spec 51 LowHigh
+offspring
+? daughter? NA
+# spec 51 HighLow
+daughter
+? offspring? NA
+
+# spec 52 LowHigh
+dessert
+? cake? NA
+# spec 52 HighLow
+cake
+? dessert? NA
+
+# spec 53 LowHigh
+planet
+? earth? NA
+# spec 53 HighLow
+earth
+? planet? NA
+
+# spec 54 LowHigh
+wine
+? chardonnay? NA
+# spec 54 HighLow
+chardonnay
+? wine? NA
+
+# spec 55 LowHigh
+cheese
+? cheddar? NA
+# spec 55 HighLow
+cheddar
+? cheese? NA
+
+# spec 56 LowHigh
+spice
+? ginger? NA
+# spec 56 HighLow
+ginger
+? spice? NA
+
+# spec 57 LowHigh
+beverage
+? tea? NA
+# spec 57 HighLow
+tea
+? beverage? NA
+
+# spec 58 LowHigh
+organ
+? brain? NA
+# spec 58 HighLow
+brain
+? organ? NA
+
+# spec 59 LowHigh
+limb
+? arm? NA
+# spec 59 HighLow
+arm
+? limb? NA
+
+# spec 60 LowHigh
+bone
+? femur? NA
+# spec 60 HighLow
+femur
+? bone? NA
+
+# spec 61 LowHigh
+finger
+? pinkie? NA
+# spec 61 HighLow
+pinkie
+? finger? NA
+
+# spec 62 LowHigh
+muscle
+? biceps? NA
+# spec 62 HighLow
+biceps
+? muscle? NA
+
+# spec 63 LowHigh
+flower
+? rose? NA
+# spec 63 HighLow
+rose
+? flower? NA
+
+# spec 64 LowHigh
+tree
+? maple? NA
+# spec 64 HighLow
+maple
+? tree? NA
+
+# spec 65 LowHigh
+disaster
+? earthquake? NA
+# spec 65 HighLow
+earthquake
+? disaster? NA
+
+# spec 66 LowHigh
+mineral
+? silicon? NA
+# spec 66 HighLow
+silicon
+? mineral? NA
+
+# spec 67 LowHigh
+liquid
+? water? NA
+# spec 67 HighLow
+water
+? liquid? NA
+
+# spec 68 LowHigh
+element
+? oxygen? NA
+# spec 68 HighLow
+oxygen
+? element? NA
+
+# spec 69 LowHigh
+metal
+? gold? NA
+# spec 69 HighLow
+gold
+? metal? NA
+
+# spec 70 LowHigh
+doctor
+? surgeon? NA
+# spec 70 HighLow
+surgeon
+? doctor? NA
+
+# spec 71 LowHigh
+scientist
+? chemist? NA
+# spec 71 HighLow
+chemist
+? scientist? NA
+
+# spec 72 LowHigh
+politician
+? senator? NA
+# spec 72 HighLow
+senator
+? politician? NA
+
+# spec 73 LowHigh
+entertainer
+? comedian? NA
+# spec 73 HighLow
+comedian
+? entertainer? NA
+
+# spec 74 LowHigh
+artist
+? impressionist? NA
+# spec 74 HighLow
+impressionist
+? artist? NA
+
+# spec 75 LowHigh
+musician
+? drummer? NA
+# spec 75 HighLow
+drummer
+? musician? NA
+
+# spec 76 LowHigh
+royalty
+? queen? NA
+# spec 76 HighLow
+queen
+? royalty? NA
+
+# spec 77 LowHigh
+dancer
+? ballerina? NA
+# spec 77 HighLow
+ballerina
+? dancer? NA
+
+# spec 78 LowHigh
+emotion
+? anger? NA
+# spec 78 HighLow
+anger
+? emotion? NA
+
+# spec 79 LowHigh
+math
+? algebra? NA
+# spec 79 HighLow
+algebra
+? math? NA
+
+# spec 80 LowHigh
+building
+? hotel? NA
+# spec 80 HighLow
+hotel
+? building? NA
+
+# spec 81 LowHigh
+crime
+? murder? NA
+# spec 81 HighLow
+murder
+? crime? NA
+
+# spec 82 LowHigh
+monster
+? zombie? NA
+# spec 82 HighLow
+zombie
+? monster? NA
+
+# spec 83 LowHigh
+room
+? kitchen? NA
+# spec 83 HighLow
+kitchen
+? room? NA
+
+# spec 84 LowHigh
+disease
+? stroke? NA
+# spec 84 HighLow
+stroke
+? disease? NA
+
+# spec 85 LowHigh
+currency
+? dollar? NA
+# spec 85 HighLow
+dollar
+? currency? NA
+
+# spec 86 LowHigh
+ideology
+? democracy? NA
+# spec 86 HighLow
+democracy
+? ideology? NA
+
+# spec 87 LowHigh
+institution
+? university? NA
+# spec 87 HighLow
+university
+? institution? NA
+
+# spec 88 LowHigh
+genre
+? comedy? NA
+# spec 88 HighLow
+comedy
+? genre? NA
+
+# spec 89 LowHigh
+season
+? spring? NA
+# spec 89 HighLow
+spring
+? season? NA
+
+# spec 90 LowHigh
+boat
+? kayak? NA
+# spec 90 HighLow
+kayak
+? boat? NA
+
+# spec 91 LowHigh
+stone
+? marble? NA
+# spec 91 HighLow
+marble
+? stone? NA
+
+# spec 92 LowHigh
+sport
+? baseball? NA
+# spec 92 HighLow
+baseball
+? sport? NA
+
+# spec 93 LowHigh
+game
+? checkers? NA
+# spec 93 HighLow
+checkers
+? game? NA
+
+# spec 94 LowHigh
+dance
+? tango? NA
+# spec 94 HighLow
+tango
+? dance? NA
+
+# spec 95 LowHigh
+media
+? newspaper? NA
+# spec 95 HighLow
+newspaper
+? media? NA
+
+# spec 96 LowHigh
+drum
+? bongo? NA
+# spec 96 HighLow
+bongo
+? drum? NA
+
+# filler 1 LowHigh
+thing
+? hard-drive? NA
+# filler 1 HighLow
+hard-drive
+? thing? NA
+
+# filler 2 LowHigh
+stuff
+? Tylenol? NA
+# filler 2 HighLow
+Tylenol
+? stuff? NA
+
+# filler 3 LowHigh
+person
+? pilot? NA
+# filler 3 HighLow
+pilot
+? person? NA
+
+# filler 4 LowHigh
+human
+? Lady Gaga? NA
+# filler 4 HighLow
+Lady Gaga
+? human? NA

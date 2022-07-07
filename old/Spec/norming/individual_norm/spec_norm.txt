@@ -1,0 +1,768 @@
+# spec 1 spec
+dog
+? Low_1_? NA
+
+# spec 2 spec
+bulldog
+? High_1_? NA
+
+# spec 3 spec
+insect
+? Low_2_? NA
+
+# spec 4 spec
+bee
+? High_2_? NA
+
+# spec 5 spec
+bear
+? Low_3_? NA
+
+# spec 6 spec
+panda
+? High_3_? NA
+
+# spec 7 spec
+pet
+? Low_4_? NA
+
+# spec 8 spec
+cat
+? High_4_? NA
+
+# spec 9 spec
+mammal
+? Low_5_? NA
+
+# spec 10 spec
+mouse
+? High_5_? NA
+
+# spec 11 spec
+fish
+? Low_6_? NA
+
+# spec 12 spec
+salmon
+? High_6_? NA
+
+# spec 13 spec
+snake
+? Low_7_? NA
+
+# spec 14 spec
+cobra
+? High_7_? NA
+
+# spec 15 spec
+ape
+? Low_8_? NA
+
+# spec 16 spec
+gorilla
+? High_8_? NA
+
+# spec 17 spec
+bird
+? Low_9_? NA
+
+# spec 18 spec
+sparrow
+? High_9_? NA
+
+# spec 19 spec
+lizard
+? Low_10_? NA
+
+# spec 20 spec
+gecko
+? High_10_? NA
+
+# spec 21 spec
+marsupial
+? Low_11_? NA
+
+# spec 22 spec
+kangaroo
+? High_11_? NA
+
+# spec 23 spec
+poultry
+? Low_12_? NA
+
+# spec 24 spec
+turkey
+? High_12_? NA
+
+# spec 25 spec
+amphibian
+? Low_13_? NA
+
+# spec 26 spec
+frog
+? High_13_? NA
+
+# spec 27 spec
+spider
+? Low_14_? NA
+
+# spec 28 spec
+tarantula
+? High_14_? NA
+
+# spec 29 spec
+furniture
+? Low_15_? NA
+
+# spec 30 spec
+table
+? High_15_? NA
+
+# spec 31 spec
+utensil
+? Low_16_? NA
+
+# spec 32 spec
+fork
+? High_16_? NA
+
+# spec 33 spec
+medicine
+? Low_17_? NA
+
+# spec 34 spec
+aspirin
+? High_17_? NA
+
+# spec 35 spec
+candy
+? Low_18_? NA
+
+# spec 36 spec
+lollipop
+? High_18_? NA
+
+# spec 37 spec
+jewel
+? Low_19_? NA
+
+# spec 38 spec
+ruby
+? High_19_? NA
+
+# spec 39 spec
+appliance
+? Low_20_? NA
+
+# spec 40 spec
+refrigerator
+? High_20_? NA
+
+# spec 41 spec
+jewelry
+? Low_21_? NA
+
+# spec 42 spec
+ring
+? High_21_? NA
+
+# spec 43 spec
+coin
+? Low_22_? NA
+
+# spec 44 spec
+penny
+? High_22_? NA
+
+# spec 45 spec
+weapon
+? Low_23_? NA
+
+# spec 46 spec
+gun
+? High_23_? NA
+
+# spec 47 spec
+fabric
+? Low_24_? NA
+
+# spec 48 spec
+silk
+? High_24_? NA
+
+# spec 49 spec
+tool
+? Low_25_? NA
+
+# spec 50 spec
+axe
+? High_25_? NA
+
+# spec 51 spec
+container
+? Low_26_? NA
+
+# spec 52 spec
+bowl
+? High_26_? NA
+
+# spec 53 spec
+makeup
+? Low_27_? NA
+
+# spec 54 spec
+lipstick
+? High_27_? NA
+
+# spec 55 spec
+shoes
+? Low_28_? NA
+
+# spec 56 spec
+sneakers
+? High_28_? NA
+
+# spec 57 spec
+bag
+? Low_29_? NA
+
+# spec 58 spec
+purse
+? High_29_? NA
+
+# spec 59 spec
+hat
+? Low_30_? NA
+
+# spec 60 spec
+beret
+? High_30_? NA
+
+# spec 61 spec
+pants
+? Low_31_? NA
+
+# spec 62 spec
+jeans
+? High_31_? NA
+
+# spec 63 spec
+parent
+? Low_32_? NA
+
+# spec 64 spec
+mother
+? High_32_? NA
+
+# spec 65 spec
+relative
+? Low_33_? NA
+
+# spec 66 spec
+uncle
+? High_33_? NA
+
+# spec 67 spec
+grandparent
+? Low_34_? NA
+
+# spec 68 spec
+grandfather
+? High_34_? NA
+
+# spec 69 spec
+coffee
+? Low_35_? NA
+
+# spec 70 spec
+cappuccino
+? High_35_? NA
+
+# spec 71 spec
+fruit
+? Low_36_? NA
+
+# spec 72 spec
+apple
+? High_36_? NA
+
+# spec 73 spec
+vegetable
+? Low_37_? NA
+
+# spec 74 spec
+broccoli
+? High_37_? NA
+
+# spec 75 spec
+pasta
+? Low_38_? NA
+
+# spec 76 spec
+spaghetti
+? High_38_? NA
+
+# spec 77 spec
+crystal
+? Low_39_? NA
+
+# spec 78 spec
+jade
+? High_39_? NA
+
+# spec 79 spec
+meat
+? Low_40_? NA
+
+# spec 80 spec
+beef
+? High_40_? NA
+
+# spec 81 spec
+soda
+? Low_41_? NA
+
+# spec 82 spec
+coke
+? High_41_? NA
+
+# spec 83 spec
+herb
+? Low_42_? NA
+
+# spec 84 spec
+parsley
+? High_42_? NA
+
+# spec 85 spec
+bread
+? Low_43_? NA
+
+# spec 86 spec
+bagel
+? High_43_? NA
+
+# spec 87 spec
+seasoning
+? Low_44_? NA
+
+# spec 88 spec
+salt
+? High_44_? NA
+
+# spec 89 spec
+condiment
+? Low_45_? NA
+
+# spec 90 spec
+ketchup
+? High_45_? NA
+
+# spec 91 spec
+sauce
+? Low_46_? NA
+
+# spec 92 spec
+gravy
+? High_46_? NA
+
+# spec 93 spec
+crop
+? Low_47_? NA
+
+# spec 94 spec
+wheat
+? High_47_? NA
+
+# spec 95 spec
+pastry
+? Low_48_? NA
+
+# spec 96 spec
+donut
+? High_48_? NA
+
+# spec 97 spec
+gadget
+? Low_49_? NA
+
+# spec 98 spec
+phone
+? High_49_? NA
+
+# spec 99 spec
+alcohol
+? Low_50_? NA
+
+# spec 100 spec
+vodka
+? High_50_? NA
+
+# spec 101 spec
+offspring
+? Low_51_? NA
+
+# spec 102 spec
+daughter
+? High_51_? NA
+
+# spec 103 spec
+dessert
+? Low_52_? NA
+
+# spec 104 spec
+cake
+? High_52_? NA
+
+# spec 105 spec
+planet
+? Low_53_? NA
+
+# spec 106 spec
+earth
+? High_53_? NA
+
+# spec 107 spec
+wine
+? Low_54_? NA
+
+# spec 108 spec
+chardonnay
+? High_54_? NA
+
+# spec 109 spec
+cheese
+? Low_55_? NA
+
+# spec 110 spec
+cheddar
+? High_55_? NA
+
+# spec 111 spec
+spice
+? Low_56_? NA
+
+# spec 112 spec
+ginger
+? High_56_? NA
+
+# spec 113 spec
+beverage
+? Low_57_? NA
+
+# spec 114 spec
+tea
+? High_57_? NA
+
+# spec 115 spec
+organ
+? Low_58_? NA
+
+# spec 116 spec
+brain
+? High_58_? NA
+
+# spec 117 spec
+limb
+? Low_59_? NA
+
+# spec 118 spec
+arm
+? High_59_? NA
+
+# spec 119 spec
+bone
+? Low_60_? NA
+
+# spec 120 spec
+femur
+? High_60_? NA
+
+# spec 121 spec
+finger
+? Low_61_? NA
+
+# spec 122 spec
+pinkie
+? High_61_? NA
+
+# spec 123 spec
+muscle
+? Low_62_? NA
+
+# spec 124 spec
+biceps
+? High_62_? NA
+
+# spec 125 spec
+flower
+? Low_63_? NA
+
+# spec 126 spec
+rose
+? High_63_? NA
+
+# spec 127 spec
+tree
+? Low_64_? NA
+
+# spec 128 spec
+maple
+? High_64_? NA
+
+# spec 129 spec
+disaster
+? Low_65_? NA
+
+# spec 130 spec
+earthquake
+? High_65_? NA
+
+# spec 131 spec
+mineral
+? Low_66_? NA
+
+# spec 132 spec
+silicon
+? High_66_? NA
+
+# spec 133 spec
+liquid
+? Low_67_? NA
+
+# spec 134 spec
+water
+? High_67_? NA
+
+# spec 135 spec
+element
+? Low_68_? NA
+
+# spec 136 spec
+oxygen
+? High_68_? NA
+
+# spec 137 spec
+metal
+? Low_69_? NA
+
+# spec 138 spec
+gold
+? High_69_? NA
+
+# spec 139 spec
+doctor
+? Low_70_? NA
+
+# spec 140 spec
+surgeon
+? High_70_? NA
+
+# spec 141 spec
+scientist
+? Low_71_? NA
+
+# spec 142 spec
+chemist
+? High_71_? NA
+
+# spec 143 spec
+politician
+? Low_72_? NA
+
+# spec 144 spec
+senator
+? High_72_? NA
+
+# spec 145 spec
+entertainer
+? Low_73_? NA
+
+# spec 146 spec
+comedian
+? High_73_? NA
+
+# spec 147 spec
+artist
+? Low_74_? NA
+
+# spec 148 spec
+impressionist
+? High_74_? NA
+
+# spec 149 spec
+musician
+? Low_75_? NA
+
+# spec 150 spec
+drummer
+? High_75_? NA
+
+# spec 151 spec
+royalty
+? Low_76_? NA
+
+# spec 152 spec
+queen
+? High_76_? NA
+
+# spec 153 spec
+dancer
+? Low_77_? NA
+
+# spec 154 spec
+ballerina
+? High_77_? NA
+
+# spec 155 spec
+emotion
+? Low_78_? NA
+
+# spec 156 spec
+anger
+? High_78_? NA
+
+# spec 157 spec
+math
+? Low_79_? NA
+
+# spec 158 spec
+algebra
+? High_79_? NA
+
+# spec 159 spec
+building
+? Low_80_? NA
+
+# spec 160 spec
+hotel
+? High_80_? NA
+
+# spec 161 spec
+crime
+? Low_81_? NA
+
+# spec 162 spec
+murder
+? High_81_? NA
+
+# spec 163 spec
+monster
+? Low_82_? NA
+
+# spec 164 spec
+zombie
+? High_82_? NA
+
+# spec 165 spec
+room
+? Low_83_? NA
+
+# spec 166 spec
+kitchen
+? High_83_? NA
+
+# spec 167 spec
+disease
+? Low_84_? NA
+
+# spec 168 spec
+stroke
+? High_84_? NA
+
+# spec 169 spec
+currency
+? Low_85_? NA
+
+# spec 170 spec
+dollar
+? High_85_? NA
+
+# spec 171 spec
+ideology
+? Low_86_? NA
+
+# spec 172 spec
+democracy
+? High_86_? NA
+
+# spec 173 spec
+institution
+? Low_87_? NA
+
+# spec 174 spec
+university
+? High_87_? NA
+
+# spec 175 spec
+genre
+? Low_88_? NA
+
+# spec 176 spec
+comedy
+? High_88_? NA
+
+# spec 177 spec
+season
+? Low_89_? NA
+
+# spec 178 spec
+spring
+? High_89_? NA
+
+# spec 179 spec
+boat
+? Low_90_? NA
+
+# spec 180 spec
+kayak
+? High_90_? NA
+
+# spec 181 spec
+stone
+? Low_91_? NA
+
+# spec 182 spec
+marble
+? High_91_? NA
+
+# spec 183 spec
+sport
+? Low_92_? NA
+
+# spec 184 spec
+baseball
+? High_92_? NA
+
+# spec 185 spec
+game
+? Low_93_? NA
+
+# spec 186 spec
+checkers
+? High_93_? NA
+
+# spec 187 spec
+dance
+? Low_94_? NA
+
+# spec 188 spec
+tango
+? High_94_? NA
+
+# spec 189 spec
+media
+? Low_95_? NA
+
+# spec 190 spec
+newspaper
+? High_95_? NA
+
+# spec 191 spec
+drum
+? Low_96_? NA
+
+# spec 192 spec
+bongo
+? High_96_? NA
+

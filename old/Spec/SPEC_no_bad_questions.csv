@@ -1,0 +1,193 @@
+﻿PairNumber,Specificity,Noun,Category,alive?,eat or drink?,straight edges?,wild?,wear?,hold?,create/invent?,sounds?
+1,Low,dog,ANIMAL,1,0,0,0,0,1,0,1
+1,High,bulldog,ANIMAL,1,0,0,0,0,1,0,1
+2,Low,insect,ANIMAL,1,0,0,1,0,1,0,1
+2,High,bee,ANIMAL,1,0,0,1,0,1,0,1
+3,Low,bear,ANIMAL,1,0,0,1,0,0,0,1
+3,High,panda,ANIMAL,1,0,0,1,0,0,0,1
+4,Low,pet,ANIMAL,1,0,0,0,0,1,0,0
+4,High,cat,ANIMAL,1,0,0,0,0,1,0,1
+5,Low,mammal,ANIMAL,1,0,0,1,0,0,0,1
+5,High,mouse,ANIMAL,1,0,0,1,0,1,0,1
+6,Low,fish,ANIMAL,1,1,0,1,0,1,0,0
+6,High,salmon,ANIMAL,1,1,0,1,0,1,0,0
+7,Low,snake,ANIMAL,1,0,0,1,0,1,0,1
+7,High,cobra,ANIMAL,1,0,0,1,0,1,0,1
+8,Low,ape,ANIMAL,1,0,0,1,0,0,0,1
+8,High,gorilla,ANIMAL,1,0,0,1,0,0,0,1
+9,Low,bird,ANIMAL,1,0,0,1,0,1,0,1
+9,High,sparrow,ANIMAL,1,0,0,1,0,1,0,1
+10,Low,lizard,ANIMAL,1,0,0,1,0,1,0,0
+10,High,gecko,ANIMAL,1,0,0,1,0,1,0,0
+11,Low,marsupial,ANIMAL,1,0,0,1,0,0,0,0
+11,High,kangaroo,ANIMAL,1,0,0,1,0,0,0,0
+12,Low,poultry,ANIMAL,1,1,0,1,0,1,0,1
+12,High,turkey,ANIMAL,1,1,0,1,0,1,0,1
+13,Low,amphibian,ANIMAL,1,0,0,1,0,1,0,1
+13,High,frog,ANIMAL,1,0,0,1,0,1,0,1
+14,Low,spider,ANIMAL,1,0,0,1,0,1,0,0
+14,High,tarantula,ANIMAL,1,0,0,1,0,1,0,0
+15,Low,furniture,ARTIFACTS,0,0,1,0,0,0,1,0
+15,High,table,ARTIFACTS,0,0,1,0,0,1,1,0
+16,Low,utensil,ARTIFACTS,0,0,0,0,0,1,1,0
+16,High,fork,ARTIFACTS,0,0,0,0,0,1,1,0
+17,Low,medicine,ARTIFACTS,0,1,0,0,0,1,1,0
+17,High,aspirin,ARTIFACTS,0,1,0,0,0,1,1,0
+19,Low,jewel,ARTIFACTS,0,0,0,0,1,1,0,0
+19,High,ruby,ARTIFACTS,0,0,0,0,1,1,0,0
+20,Low,appliance,ARTIFACTS,0,0,1,0,0,0,1,1
+20,High,refrigerator,ARTIFACTS,0,0,1,0,0,0,1,1
+21,Low,jewelry,ARTIFACTS,0,0,0,0,1,1,1,0
+21,High,ring,ARTIFACTS,0,0,0,0,1,1,1,0
+22,Low,coin,ARTIFACTS,0,0,0,0,0,1,1,0
+22,High,penny,ARTIFACTS,0,0,0,0,0,1,1,0
+23,Low,weapon,ARTIFACTS,0,0,0,0,0,0,1,0
+23,High,gun,ARTIFACTS,0,0,0,0,0,1,1,0
+24,Low,fabric,ARTIFACTS,0,0,0,0,1,1,0,0
+24,High,silk,ARTIFACTS,0,0,0,0,1,1,0,0
+25,Low,tool,ARTIFACTS,0,0,0,0,0,1,0,0
+25,High,axe,ARTIFACTS,0,0,0,0,0,1,1,0
+26,Low,container,ARTIFACTS,0,0,0,0,0,0,0,0
+26,High,bowl,ARTIFACTS,0,0,0,0,0,1,1,0
+27,Low,makeup,ARTIFACTS,0,0,0,0,1,1,1,0
+27,High,lipstick,ARTIFACTS,0,0,0,0,1,1,1,0
+49,Low,gadget,ARTIFACTS,0,0,0,0,0,1,1,1
+49,High,phone,ARTIFACTS,0,0,1,0,0,1,1,1
+28,Low,shoes,CLOTHES+ACCESS,0,0,0,0,1,1,1,0
+28,High,sneakers,CLOTHES+ACCESS,0,0,0,0,1,1,1,0
+29,Low,bag,CLOTHES+ACCESS,0,0,0,0,1,1,1,0
+29,High,purse,CLOTHES+ACCESS,0,0,0,0,1,1,1,0
+30,Low,hat,CLOTHES+ACCESS,0,0,0,0,1,1,1,0
+30,High,beret,CLOTHES+ACCESS,0,0,0,0,1,1,1,0
+31,Low,pants,CLOTHES+ACCESS,0,0,1,0,1,1,1,0
+31,High,jeans,CLOTHES+ACCESS,0,0,1,0,1,1,1,0
+32,Low,parent,FAMILY,1,0,0,0,0,0,0,1
+32,High,mother,FAMILY,1,0,0,0,0,0,0,1
+33,Low,relative,FAMILY,1,0,0,0,0,0,0,1
+33,High,uncle,FAMILY,1,0,0,0,0,0,0,1
+34,Low,grandparent,FAMILY,1,0,0,0,0,0,0,1
+34,High,grandfather,FAMILY,1,0,0,0,0,0,0,1
+51,Low,offspring,FAMILY,1,0,0,0,0,0,0,1
+51,High,daughter,FAMILY,1,0,0,0,0,0,0,1
+18,Low,candy,FOOD,0,1,0,0,0,1,1,0
+18,High,lollipop,FOOD,0,1,0,0,0,1,1,0
+35,Low,coffee,FOOD,0,1,0,0,0,0,0,0
+35,High,cappuccino,FOOD,0,1,0,0,0,0,1,0
+36,Low,fruit,FOOD,0,1,0,1,0,1,0,0
+36,High,apple,FOOD,0,1,0,1,0,1,0,0
+37,Low,vegetable,FOOD,0,1,0,1,0,1,0,0
+37,High,broccoli,FOOD,0,1,0,1,0,1,0,0
+38,Low,pasta,FOOD,0,1,0,0,0,1,1,0
+38,High,spaghetti,FOOD,0,1,0,0,0,1,1,0
+40,Low,meat,FOOD,0,1,0,1,0,1,0,0
+40,High,beef,FOOD,0,1,0,1,0,1,0,0
+41,Low,soda,FOOD,0,1,0,0,0,0,1,0
+41,High,coke,FOOD,0,1,0,0,0,0,1,0
+42,Low,herb,FOOD,0,1,0,1,0,1,0,0
+42,High,parsley,FOOD,0,1,0,1,0,1,0,0
+43,Low,bread,FOOD,0,1,0,0,0,1,1,0
+43,High,bagel,FOOD,0,1,0,0,0,1,1,0
+44,Low,seasoning,FOOD,0,1,0,0,0,1,0,0
+44,High,salt,FOOD,0,1,0,0,0,1,0,0
+45,Low,condiment,FOOD,0,1,0,0,0,1,1,0
+45,High,ketchup,FOOD,0,1,0,0,0,1,1,0
+46,Low,sauce,FOOD,0,1,0,0,0,1,1,0
+46,High,gravy,FOOD,0,1,0,0,0,1,1,0
+47,Low,crop,FOOD,0,1,0,0,0,0,0,0
+47,High,wheat,FOOD,0,1,0,0,0,0,0,0
+48,Low,pastry,FOOD,0,1,0,0,0,1,1,0
+48,High,donut,FOOD,0,1,0,0,0,1,1,0
+50,Low,alcohol,FOOD,0,1,0,0,0,0,1,0
+50,High,vodka,FOOD,0,1,0,0,0,0,1,0
+52,Low,dessert,FOOD,0,1,0,0,0,1,1,0
+52,High,cake,FOOD,0,1,0,0,0,1,1,0
+54,Low,wine,FOOD,0,1,0,0,0,0,1,0
+54,High,chardonnay,FOOD,0,1,0,0,0,0,1,0
+55,Low,cheese,FOOD,0,1,0,0,0,1,1,0
+55,High,cheddar,FOOD,0,1,0,0,0,1,1,0
+56,Low,spice,FOOD,0,1,0,0,0,1,0,0
+56,High,ginger,FOOD,0,1,0,1,0,1,0,0
+57,Low,beverage,FOOD,0,1,0,0,0,0,0,0
+57,High,tea,FOOD,0,1,0,0,0,0,0,0
+58,Low,organ,HUMAN PART,0,0,0,0,0,1,0,0
+58,High,brain,HUMAN PART,0,0,0,0,0,1,0,0
+59,Low,limb,HUMAN PART,0,0,0,0,0,1,0,0
+59,High,arm,HUMAN PART,0,0,0,0,0,1,0,0
+60,Low,bone,HUMAN PART,0,0,0,0,0,1,0,0
+60,High,femur,HUMAN PART,0,0,0,0,0,1,0,0
+61,Low,finger,HUMAN PART,0,0,0,0,0,1,0,0
+61,High,pinkie,HUMAN PART,0,0,0,0,0,1,0,0
+62,Low,muscle,HUMAN PART,0,0,0,0,0,0,0,0
+62,High,biceps,HUMAN PART,0,0,0,0,0,0,0,0
+39,Low,crystal,NATURE INANIMATE,0,0,0,1,1,1,0,0
+39,High,jade,NATURE INANIMATE,0,0,0,0,1,1,0,0
+53,Low,planet,NATURE INANIMATE,0,0,0,1,0,0,0,0
+53,High,earth,NATURE INANIMATE,0,0,0,1,0,0,0,0
+63,Low,flower,NATURE INANIMATE,1,0,0,1,1,1,0,0
+63,High,rose,NATURE INANIMATE,1,0,0,1,1,1,0,0
+64,Low,tree,NATURE INANIMATE,1,0,0,1,0,0,0,0
+64,High,maple,NATURE INANIMATE,1,0,0,1,0,0,0,0
+65,Low,disaster,NATURE INANIMATE,0,0,0,1,0,0,0,0
+65,High,earthquake,NATURE INANIMATE,0,0,0,1,0,0,0,0
+66,Low,mineral,NATURE INANIMATE,0,0,0,1,0,0,0,0
+66,High,silicon,NATURE INANIMATE,0,0,0,0,0,0,0,0
+67,Low,liquid,NATURE INANIMATE,0,0,0,1,0,0,0,0
+67,High,water,NATURE INANIMATE,0,1,0,1,0,0,0,0
+68,Low,element,NATURE INANIMATE,0,0,0,1,0,0,0,0
+68,High,oxygen,NATURE INANIMATE,0,0,0,1,0,0,0,0
+69,Low,metal,NATURE INANIMATE,0,0,0,1,1,0,0,0
+69,High,gold,NATURE INANIMATE,0,0,0,1,1,0,0,0
+91,Low,stone,NATURE INANIMATE,0,0,0,1,0,1,0,0
+91,High,marble,NATURE INANIMATE,0,0,1,0,0,1,0,0
+70,Low,doctor,OCCUPATION,1,0,0,0,0,0,1,1
+70,High,surgeon,OCCUPATION,1,0,0,0,0,0,1,1
+71,Low,scientist,OCCUPATION,1,0,0,0,0,0,1,1
+71,High,chemist,OCCUPATION,1,0,0,0,0,0,1,1
+72,Low,politician,OCCUPATION,1,0,0,0,0,0,1,1
+72,High,senator,OCCUPATION,1,0,0,0,0,0,1,1
+73,Low,entertainer,OCCUPATION,1,0,0,0,0,0,1,1
+73,High,comedian,OCCUPATION,1,0,0,0,0,0,1,1
+74,Low,artist,OCCUPATION,1,0,0,0,0,0,1,1
+74,High,impressionist,OCCUPATION,1,0,0,0,0,0,1,1
+75,Low,musician,OCCUPATION,1,0,0,0,0,0,1,1
+75,High,drummer,OCCUPATION,1,0,0,0,0,0,1,1
+76,Low,royalty,OCCUPATION,1,0,0,0,0,0,1,1
+76,High,queen,OCCUPATION,1,0,0,0,0,0,1,1
+77,Low,dancer,OCCUPATION,1,0,0,0,0,0,1,1
+77,High,ballerina,OCCUPATION,1,0,0,0,0,0,1,1
+78,Low,emotion,OTHER,0,0,0,0,0,0,0,0
+78,High,anger,OTHER,0,0,0,0,0,0,0,0
+79,Low,math,OTHER,0,0,0,0,0,0,0,0
+79,High,algebra,OTHER,0,0,0,0,0,0,0,0
+80,Low,building,OTHER,0,0,1,0,0,0,1,0
+80,High,hotel,OTHER,0,0,1,0,0,0,1,0
+81,Low,crime,OTHER,0,0,0,0,0,0,0,0
+81,High,murder,OTHER,0,0,0,0,0,0,0,0
+82,Low,monster,OTHER,0,0,0,0,0,0,1,0
+82,High,zombie,OTHER,0,0,0,0,0,0,1,0
+83,Low,room,OTHER,0,0,1,0,0,0,1,0
+83,High,kitchen,OTHER,0,0,1,0,0,0,1,0
+84,Low,disease,OTHER,0,0,0,1,0,0,0,0
+84,High,stroke,OTHER,0,0,0,0,0,0,0,0
+85,Low,currency,OTHER,0,0,0,0,0,1,1,0
+85,High,dollar,OTHER,0,0,1,0,0,1,1,0
+86,Low,ideology,OTHER,0,0,0,0,0,0,1,0
+86,High,democracy,OTHER,0,0,0,0,0,0,1,0
+87,Low,institution,OTHER,0,0,0,0,0,0,1,0
+87,High,university,OTHER,0,0,0,0,0,0,1,0
+88,Low,genre,OTHER,0,0,0,0,0,0,1,0
+88,High,comedy,OTHER,0,0,0,0,0,0,1,0
+89,Low,season,OTHER,0,0,0,1,0,0,0,0
+89,High,spring,OTHER,0,0,0,1,0,0,0,0
+90,Low,boat,SPORT+LEISURE,0,0,0,0,0,0,1,0
+90,High,kayak,SPORT+LEISURE,0,0,0,0,0,1,1,0
+92,Low,sport,SPORT+LEISURE,0,0,0,0,0,0,1,0
+92,High,baseball,SPORT+LEISURE,0,0,0,0,0,0,1,0
+93,Low,game,SPORT+LEISURE,0,0,0,0,0,0,1,0
+93,High,checkers,SPORT+LEISURE,0,0,1,0,0,1,1,0
+94,Low,dance,SPORT+LEISURE,0,0,0,0,0,0,1,0
+94,High,tango,SPORT+LEISURE,0,0,0,0,0,0,1,0
+95,Low,media,SPORT+LEISURE,0,0,0,0,0,0,1,0
+95,High,newspaper,SPORT+LEISURE,0,0,1,0,0,1,1,0
+96,Low,drum,SPORT+LEISURE,0,0,0,0,0,1,1,0
+96,High,bongo,SPORT+LEISURE,0,0,0,0,0,1,1,0

@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+27,Low,MAKEUP,ARTIFACTS,Can you wear it?,3,1,600
+96,High,BONGO,SPORT+LEISURE,Does it float in water?,7,1,300
+56,High,GINGER,FOOD,Can you eat or drink it?,1,1,400
+11,Low,MARSUPIAL,ANIMAL,Did humans create it?,5,0,400
+11,Low,MARSUPIAL,ANIMAL,Does it float in water?,7,1,500
+44,High,SALT,FOOD,Is it alive?,0,0,400
+83,Low,ROOM,OTHER,Does it make sounds?,6,0,200
+48,High,DONUT,FOOD,Does it make sounds?,6,0,200
+3,Low,BEAR,ANIMAL,Is it alive?,0,1,300
+24,High,SILK,ARTIFACTS,Can you find it in the wild?,2,0,700
+64,High,MAPLE,NATURE INANIMATE,Can you wear it?,3,0,300
+55,Low,CHEESE,FOOD,Did humans create it?,5,1,200
+7,Low,SNAKE,ANIMAL,Is it alive?,0,1,300
+48,High,DONUT,FOOD,Does it float in water?,7,1,500
+48,High,DONUT,FOOD,Is it alive?,0,0,600
+47,Low,CROP,FOOD,Does it float in water?,7,1,400
+76,High,QUEEN,OCCUPATION,Did humans create it?,5,1,600
+15,Low,FURNITURE,ARTIFACTS,Can you find it in the wild?,2,0,200
+11,Low,MARSUPIAL,ANIMAL,Can you eat or drink it?,1,0,600
+84,High,STROKE,OTHER,Can you hold it?,4,0,700
+7,Low,SNAKE,ANIMAL,Can you hold it?,4,1,300
+48,High,DONUT,FOOD,Did humans create it?,5,1,300
+72,High,SENATOR,OCCUPATION,Does it make sounds?,6,1,200
+23,Low,WEAPON,ARTIFACTS,Does it float in water?,7,0,400
+88,High,COMEDY,OTHER,Can you wear it?,3,0,700
+51,Low,OFFSPRING,FAMILY,Can you wear it?,3,0,700
+31,Low,PANTS,CLOTHES+ACCESS,Can you hold it?,4,1,600
+83,Low,ROOM,OTHER,Can you hold it?,4,0,200
+12,High,TURKEY,ANIMAL,Does it float in water?,7,1,700
+27,Low,MAKEUP,ARTIFACTS,Does it make sounds?,6,0,600
+3,Low,BEAR,ANIMAL,Can you find it in the wild?,2,1,500
+92,High,BASEBALL,SPORT+LEISURE,Did humans create it?,5,1,400
+7,Low,SNAKE,ANIMAL,Can you eat or drink it?,1,0,500
+44,High,SALT,FOOD,Can you wear it?,3,0,200
+7,Low,SNAKE,ANIMAL,Can you wear it?,3,0,500
+24,High,SILK,ARTIFACTS,Does it make sounds?,6,0,400
+63,Low,FLOWER,NATURE INANIMATE,Is it alive?,0,1,600
+68,High,OXYGEN,NATURE INANIMATE,Can you hold it?,4,0,300
+75,Low,MUSICIAN,OCCUPATION,Does it make sounds?,6,1,700
+32,High,MOTHER,FAMILY,Is it alive?,0,1,700
+47,Low,CROP,FOOD,Can you eat or drink it?,1,1,500
+8,High,GORILLA,ANIMAL,Can you eat or drink it?,1,0,500
+40,High,BEEF,FOOD,Can you find it in the wild?,2,1,300
+23,Low,WEAPON,ARTIFACTS,Can you find it in the wild?,2,0,600
+40,High,BEEF,FOOD,Can you eat or drink it?,1,1,400
+44,High,SALT,FOOD,Can you find it in the wild?,2,0,700
+3,Low,BEAR,ANIMAL,Did humans create it?,5,0,200
+44,High,SALT,FOOD,Can you hold it?,4,1,500

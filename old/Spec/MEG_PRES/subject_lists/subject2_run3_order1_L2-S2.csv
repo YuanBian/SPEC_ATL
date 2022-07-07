@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+87,Low,INSTITUTION,OTHER,Can you hold it?,4,0,600
+3,Low,BEAR,ANIMAL,Does it make sounds?,6,1,400
+16,High,FORK,ARTIFACTS,Does it float in water?,7,0,200
+31,Low,PANTS,CLOTHES+ACCESS,Did humans create it?,5,1,700
+32,High,MOTHER,FAMILY,Is it alive?,0,1,700
+91,Low,STONE,NATURE INANIMATE,Can you hold it?,4,1,400
+84,High,STROKE,OTHER,Can you hold it?,4,0,700
+59,Low,LIMB,HUMAN PART,Does it float in water?,7,1,400
+36,High,APPLE,FOOD,Can you eat or drink it?,1,1,500
+95,Low,MEDIA,SPORT+LEISURE,Can you eat or drink it?,1,0,400
+88,High,COMEDY,OTHER,Did humans create it?,5,1,200
+27,Low,MAKEUP,ARTIFACTS,Can you wear it?,3,1,300
+52,High,CAKE,FOOD,Can you wear it?,3,0,500
+83,Low,ROOM,OTHER,Can you wear it?,3,0,300
+11,Low,MARSUPIAL,ANIMAL,Does it float in water?,7,1,300
+56,High,GINGER,FOOD,Can you wear it?,3,0,600
+56,High,GINGER,FOOD,Can you eat or drink it?,1,1,500
+4,High,CAT,ANIMAL,Is it alive?,0,1,200
+39,Low,CRYSTAL,NATURE INANIMATE,Can you wear it?,3,1,500
+56,High,GINGER,FOOD,Can you find it in the wild?,2,1,700
+19,Low,JEWEL,ARTIFACTS,Can you find it in the wild?,2,0,700
+55,Low,CHEESE,FOOD,Does it make sounds?,6,0,300
+40,High,BEEF,FOOD,Can you find it in the wild?,2,1,200
+20,High,REFRIGERATOR,ARTIFACTS,Does it float in water?,7,0,200
+39,Low,CRYSTAL,NATURE INANIMATE,Is it alive?,0,0,600
+15,Low,FURNITURE,ARTIFACTS,Is it alive?,0,0,500
+96,High,BONGO,SPORT+LEISURE,Is it alive?,0,0,600
+32,High,MOTHER,FAMILY,Does it make sounds?,6,1,200
+35,Low,COFFEE,FOOD,Can you eat or drink it?,1,1,400
+60,High,FEMUR,HUMAN PART,Did humans create it?,5,0,200
+32,High,MOTHER,FAMILY,Can you hold it?,4,0,700
+24,High,SILK,ARTIFACTS,Can you wear it?,3,1,400
+71,Low,SCIENTIST,OCCUPATION,Is it alive?,0,1,500
+63,Low,FLOWER,NATURE INANIMATE,Can you hold it?,4,1,700
+79,Low,MATH,OTHER,Does it make sounds?,6,0,400
+40,High,BEEF,FOOD,Does it float in water?,7,0,600
+32,High,MOTHER,FAMILY,Can you eat or drink it?,1,0,200
+71,Low,SCIENTIST,OCCUPATION,Can you find it in the wild?,2,0,600
+55,Low,CHEESE,FOOD,Can you eat or drink it?,1,1,300
+4,High,CAT,ANIMAL,Does it make sounds?,6,1,500
+43,Low,BREAD,FOOD,Can you find it in the wild?,2,0,300
+56,High,GINGER,FOOD,Did humans create it?,5,0,300
+8,High,GORILLA,ANIMAL,Can you find it in the wild?,2,1,700
+48,High,DONUT,FOOD,Does it make sounds?,6,0,600
+63,Low,FLOWER,NATURE INANIMATE,Did humans create it?,5,0,500
+31,Low,PANTS,CLOTHES+ACCESS,Does it float in water?,7,0,400
+83,Low,ROOM,OTHER,Did humans create it?,5,1,600
+4,High,CAT,ANIMAL,Can you hold it?,4,1,300

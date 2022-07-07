@@ -1,0 +1,49 @@
+PairNumber,Condition,Noun,Category,Question,QuestionIndex,Answer,ISI
+80,Low,BUILDING,OTHER,Does it float in water?,7,0,4000
+4,Low,PET,ANIMAL,Is it alive?,0,1,4000
+43,High,BAGEL,FOOD,Can you find it in the wild?,2,0,4000
+40,Low,MEAT,FOOD,Can you hold it?,4,1,4000
+43,High,BAGEL,FOOD,Does it float in water?,7,1,4000
+72,Low,POLITICIAN,OCCUPATION,Is it alive?,0,1,4000
+31,High,JEANS,CLOTHES+ACCESS,Is it alive?,0,0,4000
+16,Low,UTENSIL,ARTIFACTS,Did humans create it?,5,1,4000
+15,High,TABLE,ARTIFACTS,Did humans create it?,5,1,4000
+48,Low,PASTRY,FOOD,Is it alive?,0,0,4000
+71,High,CHEMIST,OCCUPATION,Does it float in water?,7,1,4000
+24,Low,FABRIC,ARTIFACTS,Can you hold it?,4,1,4000
+3,High,PANDA,ANIMAL,Can you wear it?,3,0,4000
+72,Low,POLITICIAN,OCCUPATION,Can you find it in the wild?,2,0,4000
+20,Low,APPLIANCE,ARTIFACTS,Does it make sounds?,6,1,4000
+91,High,MARBLE,NATURE INANIMATE,Does it make sounds?,6,0,4000
+75,High,DRUMMER,OCCUPATION,Does it float in water?,7,1,4000
+11,High,KANGAROO,ANIMAL,Can you find it in the wild?,2,1,4000
+8,Low,APE,ANIMAL,Can you find it in the wild?,2,1,4000
+31,High,JEANS,CLOTHES+ACCESS,Can you wear it?,3,1,4000
+48,Low,PASTRY,FOOD,Can you wear it?,3,0,4000
+60,Low,BONE,HUMAN PART,Can you eat or drink it?,1,0,4000
+43,High,BAGEL,FOOD,Can you eat or drink it?,1,1,4000
+83,High,KITCHEN,OTHER,Can you hold it?,4,0,4000
+28,Low,SHOES,CLOTHES+ACCESS,Does it float in water?,7,0,4000
+56,Low,SPICE,FOOD,Can you wear it?,3,0,4000
+75,High,DRUMMER,OCCUPATION,Can you find it in the wild?,2,0,4000
+19,High,RUBY,ARTIFACTS,Can you wear it?,3,1,4000
+72,Low,POLITICIAN,OCCUPATION,Did humans create it?,5,1,4000
+43,High,BAGEL,FOOD,Is it alive?,0,0,4000
+63,High,ROSE,NATURE INANIMATE,Did humans create it?,5,0,4000
+55,High,CHEDDAR,FOOD,Can you eat or drink it?,1,1,4000
+72,Low,POLITICIAN,OCCUPATION,Does it make sounds?,6,1,4000
+28,Low,SHOES,CLOTHES+ACCESS,Can you hold it?,4,1,4000
+68,Low,ELEMENT,NATURE INANIMATE,Did humans create it?,5,0,4000
+55,High,CHEDDAR,FOOD,Does it make sounds?,6,0,4000
+91,High,MARBLE,NATURE INANIMATE,Is it alive?,0,0,4000
+48,Low,PASTRY,FOOD,Can you find it in the wild?,2,0,4000
+44,Low,SEASONING,FOOD,Can you eat or drink it?,1,1,4000
+3,High,PANDA,ANIMAL,Does it make sounds?,6,1,4000
+88,Low,GENRE,OTHER,Can you eat or drink it?,1,0,4000
+3,High,PANDA,ANIMAL,Did humans create it?,5,0,4000
+35,High,CAPPUCCINO,FOOD,Can you eat or drink it?,1,1,4000
+11,High,KANGAROO,ANIMAL,Can you hold it?,4,0,4000
+60,Low,BONE,HUMAN PART,Does it float in water?,7,0,4000
+32,Low,PARENT,FAMILY,Can you wear it?,3,0,4000
+8,Low,APE,ANIMAL,Does it make sounds?,6,1,4000
+31,High,JEANS,CLOTHES+ACCESS,Can you hold it?,4,1,4000

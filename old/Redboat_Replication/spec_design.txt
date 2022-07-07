@@ -1,0 +1,28 @@
+
+Design: a 2 condition design, with the following conditions: High & Low Specificity.
+
+LINGUISTIC materials:
+
+The raw materials consist of 96 pairs of high-low noun pairs (192 nouns in total). They are divided into 2 lists. List 1 contains low-spec items for odd-numbered items, and high-spec trials for even-num items, and List 2 vice versa. And each list is divided into 2 subsets. So there are 4 subsets in total.
+
+There are 4 runs for each subjects, each run contains 48 trials. Each trial contain 1 noun, 1 question, and is always followed by an ISI (range from 200-700, with 100 as increment). There are 8 condition orders.
+
+Each type of question (8 in total) appeared exactly 6 times, and YES/NO is balanced within each question too (each question type has exactly 3 YES 3 NO).
+
+Procedure:
+
+We have 192 trials in total, across the four runs.
+
+fixation (duration 250ms)
+blank screen (250ms)
+word (1,000ms)
+blank screen (500ms)
+question (max 3,000ms) (the script should take an answer as soon as the q period starts and until the end of the q. period; the image disappear immediately after the participant answers)
+
+After each trial, an additional ISI blank screen will be presented for one of the 6 durations (200ms, 300ms, 400ms, 500ms, 600ms, 700ms).
+
+The full set of 400 trials will be divided into 4 runs, with each run consisting of 48 trials (24 trials for each of the two conditions). The YES/NO is balanced across conditions, so 12 high- yes, 12 high- now, 12 low - yes, and 12 low -no,
+
+Before the start of each run, the instruction for the task will appear on the screen (for max 600sec; in case the participant has questions to ask the experimenter) until the participant press a button to start. At the end of each run, participants have the option of resting for 1 minute. They can skip the rest by pressing any key. Otherwise, the experiment will continue after 1 minute.
+
+Run Duration: 266 sec

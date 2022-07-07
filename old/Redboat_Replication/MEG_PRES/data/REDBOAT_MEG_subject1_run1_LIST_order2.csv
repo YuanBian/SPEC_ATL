@@ -1,0 +1,6 @@
+TrialOnset,Word_1st,Word_2nd,Condition,Match,Mismatch_Type,Image,ISI,Accuracy,RT,Dur,Response
+41.5348205890041,House,Leaf,LIST_2W,mismatch,1,BrownBag_2.jpg,500,0,0,4.52563684294,
+46.0348205890041,Xkq,Square,LIST_1W,match,0,PinkSquare_1.jpg,400,1,1.16672096191905,4.42367108887993,match
+50.434820588911,Mtpv,Note,LIST_1W,match,0,BrownNote_1.jpg,200,0,0,4.22030594199896,
+54.6348205888644,House,Leaf,LIST_2W,mismatch,1,BrownBag_2.jpg,500,0,0.786254873033613,4.5416558731813,match
+59.1348205888644,Plane,Lock,LIST_2W,mismatch,2,BlackHeart_1.jpg,200,0,0.881608824944124,4.21711830608547,match
